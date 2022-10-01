@@ -1,0 +1,1008 @@
+<?xml version="1.0"?>
+
+<normalQuestions>
+
+
+    <questionBlock>
+        <question>Koji je nacionalni amblem Kanade?</question>
+        <a>Javorov list</a>
+        <b>Smeđi medvjed</b>
+        <c>Polarni medvjed</c>
+        <d>Hrastov list</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kako je najveće slatkovodno jezero na svijetu?</question>
+        <a>Lake Union</a>
+        <b>Lake Superior</b>
+        <c>Lake Largest</c>
+        <d>Lake Goodwin</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Hamid Karzai je postao predsjednik Afganistana koje godine?</question>
+        <a>2000.</a>
+        <b>2001.</b>
+        <c>2002.</c>
+        <d>2003.</d>
+        <answer>3</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question>Kada i gdje je hokej uveden za žene na Olimpijadi?</question>
+        <a>1908 u Londonu</a>
+        <b>1980 u Moskvi</b>
+        <c>1936 u Berlinu</c>
+        <d>1924 u Parizu</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je izumitelj dinamita?</question>
+        <a>Enrico Ferml</a>
+        <b>Albert Einstein</b>
+        <c>Alfred Nobel</c>
+        <d>Benjamin Franklin</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je izumio kino?</question>
+        <a>Braća Cinemas</a>
+        <b>Braća Lumiere</b>
+        <c>Braća Wright</c>
+        <d>Braća Sandish</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Opstetricija je grana medicine koja se posebno bavi čime?</question>
+        <a>Kostima</a>
+        <b>Porođajem</b>
+        <c>Srčanim stanjima</c>
+        <d>Starosti</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje od ovih vjerskih obreda traje najkraće tijekom kalendarske godine?</question>
+        <a>Ramazan</a>
+        <b>Divali</b>
+        <c>Korizma</c>
+        <d>Hanuka</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja se otočna skupina na najbližoj točki nalazi samo 50 milja jugoistočno od obale Floride?</question>
+        <a>Američki Djevičanski otoci</a>
+        <b>Bahami</b>
+        <c>Otoci Turks i Caicos</c>
+        <d>Bermudski otoci</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je od ovih poznatih znamenitosti završen prvi?</question>
+        <a>Empire State Building</a>
+        <b>Royal Albert Hall</b>
+        <c>Eiffelov toranj</c>
+        <d>Big Ben</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja se zemlja 2000. godine pridružila ragbi savezu u Prvenstvu pet nacija da bi postala šest nacija?</question>
+        <a>Argentina</a>
+        <b>Gruzija</b>
+        <c>Italija</c>
+        <d>Španjolska</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji pojam znači suhi vjetar koji puše iz Sjeverne Afrike, a koji vlagu skuplja preko Mediterana?</question>
+        <a>Mistral</a>
+        <b>Sargasso</b>
+        <c>Pampero</c>
+        <d>Sirocco</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Pjesma "Take a Chance on Me" dio je kojeg mjuzikla?</question>
+        <a>West Side Story</a>
+        <b>Mamma Mia</b>
+        <c>Chicago</c>
+        <d>The Phantom of the Opera</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je glavni grad Litve?</question>
+        <a>Talin</a>
+        <b>Riga</b>
+        <c>Vilnius</c>
+        <d>Minsk</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U knjigama i filmovima o Harry Potter-u koja čarobnjačka obitelj svoju kuću naziva Jazbina ("The Burrow")?</question>
+        <a>Malfoy</a>
+        <b>Weasly</b>
+        <c>Lovegood</c>
+        <d>Longbottom</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Loire je najduža rijeka u kojoj državi?</question>
+        <a>Francuskoj</a>
+        <b>Belgiji</b>
+        <c>Švicarskoj</c>
+        <d>Nizozemskoj</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koliko je boja u standardnom Google-ovom logu?</question>
+        <a>2</a>
+        <b>4</b>
+        <c>6</c>
+        <d>8</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja od ovih država ima najviše vremenskih zona?</question>
+        <a>Rusija</a>
+        <b>Kina</b>
+        <c>SAD</c>
+        <d>Francuska</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji od ovih romana nije originalno napisan na ruskom jeziku?</question>
+        <a>Zločin i kazna</a>
+        <b>Rat i mir</b>
+        <c>Razum i osjećaji</c>
+        <d>Majstor i Margarita</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Prvo sveučilište na prostoru Sjeverne Amerike je?</question>
+        <a>Harvard</a>
+        <b>Washington</b>
+        <c>Yale</c>
+        <d>Oxford</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Od 2011. godine, Brendan O’Carroll glumi glavnu ulogu u kojem sitcomu?</question>
+        <a>Mrs. Brown’s Boys</a>
+        <b>Mrs. Brown’s Babes</b>
+        <c>Mrs. Brown’s Baboons</c>
+        <d>Mrs. Brown’s Bust Ups</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je od ovih pasmina španijela?</question>
+        <a>King James</a>
+        <b>King John</b>
+        <c>King Charles</c>
+        <d>King George</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kako se zove lik kojeg je glumila Daisy Ridley u filmu Ratovi zvijezda: Uspon Skywalkera?</question>
+        <a>Doh</a>
+        <b>Rey</b>
+        <c>Mee</c>
+        <d>Farr</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je od ovih naslova umjetničko djelo Tracey Emin?</question>
+        <a>Our Settee</a>
+        <b>Your Bench</b>
+        <c>Her Desk</c>
+        <d>My Bed</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Iz kojeg je razloga profesor Robert Kelly stekao internetsku slavu 2017. godine?</question>
+        <a>Pogrešan identitet na vijestima</a>
+        <b>Jurio za svojim psom</b>
+        <c>Dječji "gatecrashed" intervju</c>
+        <d>Pokušavao uhvatiti palicu</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Lik po imenu Ralph izabran je za vođu grupe dječaka na početku koje knjige?</question>
+        <a>Družba Pere Kvržice</a>
+        <b>Gospodar muha</b>
+        <c>Knjiga o džungli</c>
+        <d>Hrabri novi svijet</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je planina u Hokusaijevom tisku 'The Great Wave' prikazana u pozadini?</question>
+        <a>Planina Emei</a>
+        <b>Planina Kailash</b>
+        <c>Planina Fuji</c>
+        <d>Planina Sinaj</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja od ovih država na nacionalnoj zastavi nema tri vodoravne pruge?</question>
+        <a>Rusija</a>
+        <b>Rumunjska</b>
+        <c>Mađarska</c>
+        <d>Njemačka</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Od kojeg se voća pravi liker "Crème de cassis"?</question>
+        <a>Jabuke</a>
+        <b>Kruške</b>
+        <c>Crnih ribizli</c>
+        <d>Ogrozda</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>"Escape or Die Frying" je slogan za koji film?</question>
+        <a>Chicken Run</a>
+        <b>Ratatouille</b>
+        <c>Free Willy</c>
+        <d>Babe</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kojeg od ovih stvarnih ljudi Benedict Cumberbatch nije glumio?</question>
+        <a>Dominic Cummings</a>
+        <b>Alan Turing</b>
+        <c>Tony Blair</c>
+        <d>Julian Assange</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Za koju se zemlju u Bibliji kaže da je istočno od raja?</question>
+        <a>Nineveh</a>
+        <b>Nod</b>
+        <c>Nazaret</c>
+        <d>Nimrud</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Nakon odsviranog koncerta gotovo uvijek slijedi...</question>
+        <a>cis</a>
+        <b>dis</b>
+        <c>fis</c>
+        <d>bis</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji biser Jadrana nije nacionalni park?</question>
+        <a>Brijuni</a>
+        <b>Biševo</b>
+        <c>Kornati</c>
+        <d>Mljet</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Drugi dio kojeg filmskog serijala je poznat pod nazivom Cestovni ratnik?</question>
+        <a>Smrtonosno oružje</a>
+        <b>Pobješnjeli Max</b>
+        <c>Umri muški</c>
+        <d>Terminator</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Askja, Hekla i Katla imena su islandskih...</question>
+        <a>Božica</a>
+        <b>Gradova</b>
+        <c>Vulkana</c>
+        <d>Zračnih luka</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji od kemijskih elemenata nije nazvan po nobelovcu?</question>
+        <a>Ajnštajnij</a>
+        <b>Fermij</b>
+        <c>Kirij</c>
+        <d>Nobelij</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kako se zove album Dine Dvornika iz 1993. godine?</question>
+        <a>Matematika</a>
+        <b>Zemljopis</b>
+        <c>Priroda i društvo</c>
+        <d>Tjelesni odgoj</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je evanđelist po zanimanju bio liječnik, te je zaštitnik liječnika i kirurga?</question>
+        <a>Matej</a>
+        <b>Luka</b>
+        <c>Marko</c>
+        <d>Ivan</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>S kojom su državom za vrijeme Sueske krize ratovali Izrael, Francuska i Velika Britanija?</question>
+        <a>Grčkom</a>
+        <b>Turskom</b>
+        <c>Alžirom</c>
+        <d>Egiptom</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Za čiju je reprezentaciju igrao Guiellmo Stabile, najbolji strijelac SP-a 1930. godine?</question>
+        <a>Argentinu</a>
+        <b>Brazil</b>
+        <c>Čile</c>
+        <d>Kolumbiju</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja rijeka nastaje spajanjem rijeka Maranon i Ucayalli?</question>
+        <a>Nil</a>
+        <b>Eufrat</b>
+        <c>Rajna</c>
+        <d>Amazona</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Zrakoplov koje je zrakoplovne kompanije 2014. pod sumnjivim okolnostima srušen nad Ukrajinom?</question>
+        <a>Turkish Airlines</a>
+        <b>China Airlines</b>
+        <c>Malaysia Airlines</c>
+        <d>Singapore Airlines</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Velšanin Ian Rush je s 346 golova, najbolji strijelac u povijesti kojeg kluba?</question>
+        <a>Arsenal-a</a>
+        <b>Manchester United-a</b>
+        <c>Liverpool-a</c>
+        <d>Leicester-a</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji su ruski grad u 2.svjetskom ratu Nijemci držali u okruženju 872 dana?</question>
+        <a>Smolensk</a>
+        <b>Moskvu</b>
+        <c>Staljingrad</c>
+        <d>Lenjingrad</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koliko se zvijezda nalazilo na zastavi Američke konfederacije?</question>
+        <a>20</a>
+        <b>25</b>
+        <c>13</c>
+        <d>7</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje je godine na Zimskim olimpijskim igrama Ivica Kostelić osvojio svoju prvu olimpijsku medalju?</question>
+        <a>2001.</a>
+        <b>2004.</b>
+        <c>2006.</c>
+        <d>2009.</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji sport igraju u istočnoeuropskoj VTB ligi?</question>
+        <a>Nogomet</a>
+        <b>Odbojku</b>
+        <c>Košarku</c>
+        <d>Rukomet</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje se godine u Europi dogodio niz revolucija jednim imenom nazvanih Proljeće naroda</question>
+        <a>1700.</a>
+        <b>1848.</b>
+        <c>1492.</c>
+        <d>1774.</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je zabio autogol u utakmici Brazil-Hrvatska, prvoj utakmici SP-a 2014. godine? </question>
+        <a>Thiago Silva</a>
+        <b>David Luiz</b>
+        <c>Marcelo</c>
+        <d>Paulinho</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je skandinavska zemlja osvojila najviše medalja na Zimskim olimpijskim igrama</question>
+        <a>Švedska</a>
+        <b>Finska</b>
+        <c>Norveška</c>
+        <d>Danska</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je bio drugi muž Jacqueline Kennedy?</question>
+        <a>Aristotle Onassis</a>
+        <b>Adnan Khashoggi</b>
+        <c>Rupert Murdoch</c>
+        <d>Ronald Regan</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Emmentaler je sir iz koje zemlje?</question>
+        <a>Francuske</a>
+        <b>Italije</b>
+        <c>Nizozemske</c>
+        <d>Švicarske</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U kojoj se državi prije 1. svjetskog rata razvio likovni smjer konstruktivizam?</question>
+        <a>Njemačkoj</a>
+        <b>Italiji</b>
+        <c>Rusiji</c>
+        <d>Norveškoj</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U kojoj se afričkoj državi nalazi planinski masiv Kilimandžaro?</question>
+        <a>Angoli</a>
+        <b>Tanzaniji</b>
+        <c>Nigeriji</c>
+        <d>Zambiji</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja se pjevačica na početku velikog hita obraća "All the single ladies"?</question>
+        <a>Rihanna</a>
+        <b>Shakira</b>
+        <c>Cardi B</c>
+        <d>Beyonce</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je dugogodišnji trener San Antonio Spursa doveo teksašane do 5 naslova NBA prvaka?</question>
+        <a>Larry Brown</a>
+        <b>Gregg Popovich</b>
+        <c>Cliff Hagan</c>
+        <d>Bob Weiss</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Iza kojeg se planeta nalazi Kuiperov pojas, uglavnom sastavljen od manjih ledenih tijela?</question>
+        <a>Marsa</a>
+        <b>Jupitera</b>
+        <c>Plutona</c>
+        <d>Neptuna</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja od ovih izjava najbolje opisuje film "Ad Astra" iz 2019. godine?</question>
+        <a>Will Smith plovi oko svijeta</a>
+        <b>Keanu Reeves prelazi Saharu</b>
+        <c>Brad Pitt odlazi u svemir</c>
+        <d>Matt Damon kupuje zoološki vrt</d>
+        <answer>3</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question>U Italiji se ljudi tradicionalno javljaju na telefon ne govoreći "ciao", već što?</question>
+        <a>Quando</a>
+        <b>Pronto</b>
+        <c>Gracie</c>
+        <d>Mi scusi</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koliko igrača ima olimpijski tim za curling?</question>
+        <a>2</a>
+        <b>4</b>
+        <c>5</c>
+        <d>7</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koju je sportsku igru​James Naismith izumio 1891. godine?</question>
+        <a>Ragbi</a>
+        <b>Košarku</b>
+        <c>Nogomet</c>
+        <d>Rukomet</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je zemlja osvojila Svjetsko prvenstvo 1982. u Španjolskoj, pobijedivši Zapadnu Njemačku sa 3-1?</question>
+        <a>Italija</a>
+        <b>Engleska</b>
+        <c>Urugvaj</c>
+        <d>Brazil</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje je godine filmski klasik "The Godfather" prvi put prikazan na filmskom platnu?</question>
+        <a>1945.</a>
+        <b>1966.</b>
+        <c>1972.</c>
+        <d>1984.</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je vodio West Ham United između 2008. i 2010?</question>
+        <a>Gianfranco Zola</a>
+        <b>Slaven Bilić</b>
+        <c>David Moyes</c>
+        <d>Harry Redknapp</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje je nacionalnosti bio kipar Alberto Giacometti?</question>
+        <a>Talijanske</a>
+        <b>Švicarske</b>
+        <c>Francuske</c>
+        <d>Slovenske</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U Bologni je osnovano prvo sveučilište na svijetu, koje godine?</question>
+        <a>1088.</a>
+        <b>1204.</b>
+        <c>1492.</c>
+        <d>1556.</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Hercegovina zahvaća koliko posto ukupne površine BiH?</question>
+        <a>10%</a>
+        <b>22%</b>
+        <c>30%</c>
+        <d>50%</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje je površinom najveće pridono jezero u Hercegovini?</question>
+        <a>Blidinjsko jezero</a>
+        <b>Boračko jezero</b>
+        <c>Jablaničko jezero</c>
+        <d>Ramsko jezero</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Prema mišljenjima koja se crkva spominje na natpisu Humačke ploče</question>
+        <a>Crkva sv. Marka</a>
+        <b>Crkva sv. Mihovila</b>
+        <c>Crkva sv. Petra </c>
+        <d>Crkva sv. Ivana Krstitelja</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Hrvatski dugometražni film Gospa snimljen je koje godine?</question>
+        <a>1981.</a>
+        <b>1990.</b>
+        <c>1994.</c>
+        <d>2001.</d>
+        <answer>3</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question>Koje je godine Marin Čilić osvojio US open?</question>
+        <a>2011.</a>
+        <b>2012.</b>
+        <c>2014.</c>
+        <d>2017.</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Aurora Borealis je poznata kao?</question>
+        <a>Vilina prašina</a>
+        <b>Polarna svjetlos</b>
+        <c>Knjiga vijekova</c>
+        <d>Glavni lik u Igri prijesotlja</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kako se zove najveća planina u Europi?</question>
+        <a>Elbrus</a>
+        <b>Mont Blanc</b>
+        <c>Matterhorn</c>
+        <d>Dolomites</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koliko se jezika govori na Papua Novoj Gvineji?</question>
+        <a>2</a>
+        <b>3</b>
+        <c>4</c>
+        <d>800</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Gdje se nalazi nuklearni bunker izrađen u SFRJ, otkriven 1990. godine?</question>
+        <a>Sarajevo</a>
+        <b>Tuzla</b>
+        <c>Konjic</c>
+        <d>Mostar</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kada je uspostavljen prvi međunarodni telefonski poziv New York-London?</question>
+        <a>1889.</a>
+        <b>1901.</b>
+        <c>1927.</c>
+        <d>1941.</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je 1559. godine okrunjena za kraljicu Engleske?</question>
+        <a>Elizebetha I</a>
+        <b>Maria I</b>
+        <c>Matilda</c>
+        <d>Ana-Marie II</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kako se zvao prvi noćni klub otvoren u Los Angelesu?</question>
+        <a>Oak</a>
+        <b>Argyle</b>
+        <c>Whisky a Go Go</c>
+        <d>Warwick</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Godine 1969. izašao je prvi album engleske grupe Led Zeppelin pod naslovom?</question>
+        <a>House of the Holy</a>
+        <b>Physical Graffit</b>
+        <c>Coda</c>
+        <d>Led Zeppelin</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je uveo riječ "Robot" u današnji život?</question>
+        <a>Jaroslav Hašek</a>
+        <b>Franz Kafka</b>
+        <c>Karel Čapek</c>
+        <d>Ivo Andrić</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Julije Cezar izgovara čuvenu rečenicu "Kocka je bačena" i prelazi rijeku Rubikon koliko godina prije Krista?</question>
+        <a>150</a>
+        <b>80</b>
+        <c>49</c>
+        <d>1000</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje godine je osnovana Liga nacija?</question>
+        <a>1901.</a>
+        <b>1561.</b>
+        <c>845.</c>
+        <d>1920.</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Godine 1864. rođen je Grigorij Rasputin, ruski što?</question>
+        <a>Svećenik</a>
+        <b>Princ</b>
+        <c>General</c>
+        <d>Pisac</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Godine 1995. katastrofalni potres pogodio je koji Japanski grad?</question>
+        <a>Osaka</a>
+        <b>Hirošima</b>
+        <c>Kobe</c>
+        <d>Wakayama</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Britanski rock glazbenik David Bowie preminuo je koje godine?</question>
+        <a>1920.</a>
+        <b>1990.</b>
+        <c>2005.</c>
+        <d>2016.</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Gdje je održano svjetsko prvenstvo u rukometu 2009. godine?</question>
+        <a>Hrvatskoj</a>
+        <b>Njemačkoj</b>
+        <c>Japanu</c>
+        <d>Tunisu</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kada se dogodila podjela Rimskog Carstva?</question>
+        <a>151. godine</a>
+        <b>224. godine</b>
+        <c>395. godine</c>
+        <d>456. godine</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko 1959. ulazi u Havanu i postaje novi kubanski vođa?</question>
+        <a>Raul Castro</a>
+        <b>Che Guevara</b>
+        <c>Miguell Diaz</c>
+        <d>Fidel Castro</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Prvi komercijalni let oko svijeta izvela je koja kompanija?</question>
+        <a>Pan American Airlines</a>
+        <b>Qatar Airways</b>
+        <c>Lufthansa</c>
+        <d>American Airlines</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Šuker je najbolji strijelac Hrvatske nogometne reprezentacije. Tko je drugi?</question>
+        <a>Eduardo</a>
+        <b>Mandžukić</b>
+        <c>Olić</c>
+        <d>Perišić</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji se član Družbe Pere Kvržice u čabru spustio u bunar?</question>
+        <a>Divljak</a>
+        <b>Medo</b>
+        <c>Šilo</c>
+        <d>Budala</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je bend karijeru započeo singlovima o transvestitu Arnoldu i Emily?</question>
+        <a>Deep Purple</a>
+        <b>Pink Floyd</b>
+        <c>The Doors</c>
+        <d>AC/DC</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Cijena dionica koje je kompanije u siječnu 2021. porasla više od 18 puta, zahvaljujući Reddit korisnicima?</question>
+        <a>GameStop</a>
+        <b>MatchStart</b>
+        <c>SetFinish</c>
+        <d>Rockstar Games</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je bio prethodni naziv za New York?</question>
+        <a>New Amsterdam</a>
+        <b>Castle</b>
+        <c>New Castle</c>
+        <d>New Brussels</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je glavni lik u Fairy Tail-u?</question>
+        <a>Lucy</a>
+        <b>Erza</b>
+        <c>Natsu</c>
+        <d>Happy</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kako se zove japansko tradicionalno kazalište?</question>
+        <a>Na</a>
+        <b>Ne</b>
+        <c>No</c>
+        <d>Nu</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je prodao Aljasku SAD-u?</question>
+        <a>Rusija</a>
+        <b>Kina</b>
+        <c>Japan</c>
+        <d>Velika Britanija</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je grčka božica pobjede?</question>
+        <a>Niku</a>
+        <b>Niki</b>
+        <c>Nika</c>
+        <d>Nikm</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Naziv za prvo računalo?</question>
+        <a>ENIAC</a>
+        <b>ENCIC</b>
+        <c>ENTEC</c>
+        <d>ENIGMA</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Vodozemci dišu preko?</question>
+        <a>Nosa</a>
+        <b>Kože</b>
+        <c>Usta</c>
+        <d>Jezika</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je redatelj filma " Pasija " ?</question>
+        <a>James Cameron</a>
+        <b>Mel Gibson</b>
+        <c>Peter Jackson</c>
+        <d>Ben Affleck</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja ptica jedina može letjeti unatrag?</question>
+        <a>Zebica</a>
+        <b>Kolibrić</b>
+        <c>Sjenica</c>
+        <d>Lastavica</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Vrijednost Ludolfovog broja je?</question>
+        <a>4.13</a>
+        <b>3.14</b>
+        <c>4.31</c>
+        <d>3.41</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja boja najviše privlači komarce?</question>
+        <a>Zelena</a>
+        <b>Žuta</b>
+        <c>Crvena</c>
+        <d>Plava</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kako se naziva skup Q brojeva</question>
+        <a>Racionalni</a>
+        <b>Prirodni</b>
+        <c>Realni</c>
+        <d>Q brojevi</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U odnosu na svoju težinu, koliko puta teži teret mrav može podići?</question>
+        <a>3 puta</a>
+        <b>10 puta</b>
+        <c>5 puta</c>
+        <d>20 puta</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je izumitelj dinamita?</question>
+        <a>Nikola Tesla</a>
+        <b>Alfred Hitchcock</b>
+        <c>Thomas Edison</c>
+        <d>Alfred Nobel</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Jastozi imaju krv koje boje?</question>
+        <a>Crvene</a>
+        <b>Žute</b>
+        <c>Plave</c>
+        <d>Ljubičaste</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koliko brzo može letjeti sivi sokol?</question>
+        <a>250km/h</a>
+        <b>350km/h</b>
+        <c>300km/h</c>
+        <d>325km/h</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja životinja ima veće oko od mozga?</question>
+        <a>Divovska lignja</a>
+        <b>Galeb</b>
+        <c>Noj</c>
+        <d>Žaba</d>
+        <answer>3</answer>
+    </questionBlock>
+
+</normalQuestions>

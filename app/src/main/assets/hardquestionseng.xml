@@ -1,0 +1,677 @@
+<?xml version="1.0"?>
+
+<hardQuestionsEng>
+
+    <questionBlock>
+        <question>Oscar was founded in what year?</question>
+        <a>1968.</a>
+        <b>1929.</b>
+        <c>1901.</c>
+        <d>1965.</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> When did Margaret Thatcher become the Prime Minister of the United Kingdom? </question>
+        <a> 1998. </a>
+        <b> 1989. </b>
+        <c> 1979. </c>
+        <d> 1800. </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> In what year did China test its nuclear weapons for the first time </question>
+        <a> 1962. </a>
+        <b> 1963. </b>
+        <c> 1964. </c>
+        <d> 1965. </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> When did Commander Robert Peary discover the North Pole? </question>
+        <a> 1904. </a>
+        <b> 1905. </b>
+        <c> 1908. </c>
+        <d> 1909. </d>
+        <answer>4</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question> What is the range of the Akash rocket? </question>
+        <a> 4 km </a>
+        <b> 25 km </b>
+        <c> 9 km </c>
+        <d> 150 km </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> What was the range of the Nazi V-2 missile? </question>
+        <a> 3 km </a>
+        <b> 25 km </b>
+        <c> 50 km </c>
+        <d>320 km</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> The ozone layer protect us from what? </question>
+        <a> Space Cold </a>
+        <b> Infrared radiation </b>
+        <c> X-ray and gamma ray </c>
+        <d> Ultraviolet radiation </d>
+        <answer>4</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question> Fa-Hien was? </question>
+        <a> The first Buddhist pilgrim from China </a>
+        <b> Discoverer of Puerto Rico and Jamaica </b>
+        <c> The first Buddhist pilgrim from India </c>
+        <d> Inventor of the first mechanical watch </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of these whales is classified as a toothed whale? </question>
+        <a> Gray whale </a>
+        <b> Sharp-billed Whale </b>
+        <c> Woodpecker </c>
+        <d> Humpback whale </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Who is the only British politician who has held all four "big state offices" at some point in his career? </question>
+        <a> David Lloyd George </a>
+        <b> Harold Wilson </b>
+        <c> James Callaghan </c>
+        <d> John Major </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which English king won the Battle of the Spurs in 1513? </question>
+        <a> Richard III. </a>
+        <b> Henry VII. </b>
+        <c> Henry VIII. </c>
+        <d> Edward VI. </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of the following won an Oscar for his role as a monarch? </question>
+        <a> Judi Dench </a>
+        <b> Helen Miren </b>
+        <c> Colin Firth </c>
+        <d> Mel Gibson </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which monarch was known as the "wisest fool in Christianity"? </question>
+        <a> Henry I </a>
+        <b> Edward I </b>
+        <c> Charles I </c>
+        <d> James I </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which king was married to Eleanor, Duchess of Aquitaine? </question>
+        <a> Henry I </a>
+        <b> Henry II </b>
+        <c> Richard I </c>
+        <d> Henry V </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Oberon is a satellite of which planet? </question>
+        <a> Mercury </a>
+        <b> Neptune </b>
+        <c> Uranium </c>
+        <d> Mars </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> 1912. Former US President Theodore Roosevelt was a candidate for which political party? </question>
+        <a> Bull Moose </a>
+        <b> Bull Dog </b>
+        <c> Bull Frog </c>
+        <d> Bull Elephant </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Tomas Masaryk was the first president of which country? </question>
+        <a> Poland </a>
+        <b> Czechoslovakia </b>
+        <c> Hungary </c>
+        <d> Yugoslavia </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> If you were to plant "Quercus robur" seeds, what would grow? </question>
+        <a> Cereals </a>
+        <b> Flower </b>
+        <c> Vegetables </c>
+        <d> Tree </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Number one followed by one hundred zeros is known by what name? </question>
+        <a> Nanomole </a>
+        <b> Gigabit </b>
+        <c> Googol </c>
+        <d> Megtron </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which scientific unit was named after an Italian nobleman? </question>
+        <a> Pascal </a>
+        <b> Ohm </b>
+        <c> Volt </c>
+        <d> Hertz </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> What was the occupation of the composer Borodin? </question>
+        <a> Navy Captain </a>
+        <b> Chemist </b>
+        <c> Lawyer </c>
+        <d> Cook </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of the following is a butterfly and not a moth? </question>
+        <a> Mother Shipton </a>
+        <b> Red Underwing </b>
+        <c> Burnished Brass </c>
+        <d> Speckled Wood </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of these is not one of the American "Triple Crown" horse races? </question>
+        <a> Arlington Million </a>
+        <b> Belmont Stakes </b>
+        <c> Kentucky Derby </c>
+        <d> Preakness Stakes </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Who was the first man to travel into space twice? </question>
+        <a> Vladimir Titov </a>
+        <b> Michael Collins </b>
+        <c> Gus Garissom </c>
+        <d> Yuri Gagarin </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which boxer was known for hitting the gong in the introduction of the J. Arthur Rank movies? </question>
+        <a> Bomber Billy Wells </a>
+        <b> Freddie Mills </b>
+        <c> Terry Spinks </c>
+        <d> Don Cockell </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of these UK prime ministers has never been foreign minister? </question>
+        <a> Alex Douglas </a>
+        <b> Winston Churchill </b>
+        <c> Anthony Eden </c>
+        <d> Harold Macmillan </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of the following people was born in the same year as Queen Elizabeth II? </question>
+        <a> Audrey Hepburn </a>
+        <b> Judy Garland </b>
+        <c> Julie Andrews </c>
+        <d> Marily Monroe </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of these legendary races was held first in the history of motorsport? </question>
+        <a> Le Mans 24 hours </a>
+        <b> Monaco Grand Prix </b>
+        <c> Indy 500 </c>
+        <d> Isle of Man TT </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> According to Robert Burns, what is the food of the "Great Chief of the Pudding Race"? </question>
+        <a> Tea Cake </a>
+        <b> Sheep offal </b>
+        <c> Bacon ring </c>
+        <d> Sticky caramel pudding </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> In mythology, which creature emerged from the blood of Medusa? </question>
+        <a> Pegasus </a>
+        <b> Griffin </b>
+        <c> Hydra </c>
+        <d> Centaur </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Who wrote the opera The Thieving Magpie? </question>
+        <a> Rossini </a>
+        <b> Verdi </b>
+        <c> Donizetti </c>
+        <d> Puccini </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> The words "Royal Dutch" appear in the full name of which company? </question>
+        <a> Esso </a>
+        <b> Shell </b>
+        <c> BP </c>
+        <d> Texaco </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> On the shores of which lake are the ruins of Urquhart Castle? </question>
+        <a> Loch Lomond </a>
+        <b> Loch Ness </b>
+        <c> Loch Broom </c>
+        <d> Loch Maree </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Scarlet Letter is a novel by an American writer? </question>
+        <a> Herman Melville </a>
+        <b> Nathanial Hawthorne </b>
+        <c> Jack London </c>
+        <d> John Steinbeck </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> The hard outer skeleton of an insect is made mainly of which substance? </question>
+        <a> Hitin </a>
+        <b> Keratin </b>
+        <c> Glycogen </c>
+        <d> Lignin </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of these TV series first aired in the 1970s? </question>
+        <a> To Death Us Do Part </a>
+        <b> Mastermind </b>
+        <c> Dad’s Army </c>
+        <d> Doctor Who </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which European capital name means "Gulf of Smoke" in the mother language? </question>
+        <a> Copenhagen </a>
+        <b> Amsterdam </b>
+        <c> Reykjavik </c>
+        <d> Vilnius </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Who is the only monarch who was born and died at Buckingham Palace? </question>
+        <a> George V </a>
+        <b> Edward VII </b>
+        <c> Victoria I </c>
+        <d> William IV </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which German meteorologist controversially proposed the theory of continental ecstasy in 1912? </question>
+        <a> Alexander von Humboldt </a>
+        <b> Abraham Ortelius </b>
+        <c> Alfred Wegener </c>
+        <d> Eduard Suess </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> On which African river does the action of Konrad's Heart of Darkness take place? </question>
+        <a> Nile </a>
+        <b> Niger </b>
+        <c> Congo </c>
+        <d> Zambezi </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> How old was Neil Armstrong when he walked on the moon? </question>
+        <a> 38 </a>
+        <b> 31 </b>
+        <c> 35 </c>
+        <d> 34 </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> AQaba is the only seaport of which country? </question>
+        <a> Morocco </a>
+        <b> Jordan </b>
+        <c> Iraq </c>
+        <d> Syria </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Racine's Phaedra is a masterpiece from which literary period? </question>
+        <a> Classicism </a>
+        <b> Romanticism </b>
+        <c> Realism </c>
+        <d> Modernism </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> What does Amerigo Bonaser believe in, judging by the introductory sentence from the legendary movie The Godfather? </question>
+        <a> Family </a>
+        <b> Power </b>
+        <c> America </c>
+        <d> Money </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Baron Haussman is best known for planning which city? </question>
+        <a> Paris </a>
+        <b> Rome </b>
+        <c> Athens </c>
+        <d> Berlin </d>
+        <answer>1</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question> First performed in 1804, Beethoven's "Eroica Symphony" was originally dedicated to which historical figure? </question>
+        <a> Marie Antoinette </a>
+        <b> Napoleon Bonaparte </b>
+        <c> Louis XVIII </c>
+        <d> Voltaire </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> With which country is Switzerland connected by the Simplon railway tunnel? </question>
+        <a> German </a>
+        <b> Austria </b>
+        <c> Italy </c>
+        <d> French </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which vitamin deficiency causes a reduced amount of retinal and rhodopsin? </question>
+        <a> A </a>
+        <b> B </b>
+        <c> C </c>
+        <d> D </d>
+        <answer>1</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question> Which state was ruled by members of the Barkas family in the 3rd century BC? </question>
+        <a> Rome </a>
+        <b> Carthage </b>
+        <c> Athena </c>
+        <d> Egypt </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> What color does Lorca like in the verse "Verde que te quiero verde"? </question>
+        <a> Red </a>
+        <b> Yellow </b>
+        <c> Green </c>
+        <d> Blue </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> In what years did the Germans first use Fau 1 flying missiles? </question>
+        <a> 1939. </a>
+        <b> 1942. </b>
+        <c> 1944. </c>
+        <d> 1950. </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> What is the nationality of modern architect Alvar Aalto? </question>
+        <a> Finland </a>
+        <b> Sweden </b>
+        <c> Denmark </c>
+        <d> Norway </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> At the end of February 2016, which Oscars were held? </question>
+        <a> 84 </a>
+        <b> 86 </b>
+        <c> 88 </c>
+        <d> 90 </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> How many daughters did Mnemosyne give birth to Zeus? </question>
+        <a> 1 </a>
+        <b> 5 </b>
+        <c> 7 </c>
+        <d> 9 </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> In which language was the original Anne Frank diary first published? </question>
+        <a> German </a>
+        <b> French </b>
+        <c> Dutch </c>
+        <d> English </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which bug shortened the early supercomputer and inspired the term "computer error"? </question>
+        <a> Moth </a>
+        <b> Spider </b>
+        <c> Butterfly </c>
+        <d> Japanese beetle </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Before the American colonies switched to the Gregorian calendar, on what date did their new year begin? </question>
+        <a> 25.03. </a>
+        <b> 01.05. </b>
+        <c> 25.11. </c>
+        <d> 01.12. </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Who was the only one to refuse the Nobel Peace Prize? </question>
+        <a> Albert Schweitzer </a>
+        <b> Le Duc Tho </b>
+        <c> Andrei Sakharov </c>
+        <d> Aung San Suu Kyi </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> To whom is the invention of the first mass production helicopter attributed? </question>
+        <a> Igor Sikorsky </a>
+        <b> Elmer Sperry </b>
+        <c> Ferdinand von Zeppelin </c>
+        <d> Gottlieb Daimler </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of these ships was not one of the three that the colonists took over during the Boston Tea Party? </question>
+        <a> Eleanor </a>
+        <b> Dartmouth </b>
+        <c> Beaver </c>
+        <d> William </d>
+        <answer>4</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question> According to the Census Bureau, what is the approximate number of people who have ever lived on Earth? </question>
+        <a> 50 million </a>
+        <b> 100 billion </b>
+        <c> 1 trillion </c>
+        <d> 5 trillion </d>
+        <answer>2</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question> "Nephelococcygia" is what? </question>
+        <a> Find shapes in the clouds </a>
+        <b> Sleep with your eyes open </b>
+        <c> Breaking glass with your voice </c>
+        <d> Bathing in ice water </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Cornelius van Drebbel was famous for building what? </question>
+        <a> Submarines </a>
+        <b> Helicopter </b>
+        <c> Hovercraft </c>
+        <d> Steam locomotives </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> What was the name of the American pharmacist who invented the world's most popular drink, Coca Cola, in 1885? </question>
+        <a> Caleb Bradham </a>
+        <b> John Pemberton </b>
+        <c> John Abel </c>
+        <d> Otto Folin </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Mehmed Ali-Agca tried to kill? </question>
+        <a> John Paul II </a>
+        <b> Benedict XVI </b>
+        <c> John Paul I </c>
+        <d> Benedict X </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> When were the second Winter Olympics in St. Mortiz? </question>
+        <a> 1918. </a>
+        <b> 1928. </b>
+        <c> 1932 </c>
+        <d> 1976. </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> When was Insulin first used to treat diabetes? </question>
+        <a> 1901. </a>
+        <b> 1888. </b>
+        <c> 1922. </c>
+        <d> 1932. </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which volcano erupted in Peru in 1942 and killed 4,000 people? </question>
+        <a> Ubinas </a>
+        <b> Ampato </b>
+        <c> Misti </c>
+        <d> Huascaran </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> The UN headquarters in New York started operating in which year? </question>
+        <a> 1945. </a>
+        <b> 1951. </b>
+        <c> 1955. </c>
+        <d> 1968. </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> What did Jan Palach do in 1969 in the middle of Prague? </question>
+        <a> Drowned </a>
+        <b> It caught fire </b>
+        <c> He hung himself </c>
+        <d> Shot </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> When did the US produce the first hydrogen bomb? </question>
+        <a> 1914. </a>
+        <b> 1939. </b>
+        <c> 1955. </c>
+        <d> 1952. </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>How old was Philo Farnsworth when he invented the television?</question>
+        <a>16</a>
+        <b>21</b>
+        <c>35</c>
+        <d>46</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>What year did the War of 1812 end?</question>
+        <a>1812.</a>
+        <b>1813.</b>
+        <c>1814.</c>
+        <d>1815.</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Where was Cleopatra’s birthplace?</question>
+        <a>Greece</a>
+        <b>Egypt</b>
+        <c>Rome</c>
+        <d>India</d>
+        <answer>1</answer>
+    </questionBlock>
+
+</hardQuestionsEng>

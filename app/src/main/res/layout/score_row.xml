@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:paddingLeft="20dp"
+    android:paddingTop="5dp"
+    android:background="@null"
+    android:paddingRight="20dp"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:id="@+id/money_record_row"
+        android:layout_marginTop="25dp"
+        android:textColor="@android:color/white"
+        android:background="@drawable/records_button"
+        android:layout_height="33dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:weightSum="3"
+        android:layout_marginTop="4dp"
+        android:layout_height="27dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:id="@+id/score_record_row"
+            android:gravity="center"
+            android:textColor="@android:color/white"
+            android:background="@drawable/records_button"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+    
+
+</LinearLayout>

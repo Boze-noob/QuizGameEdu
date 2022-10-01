@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.applid.milijunas_2021">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/milijunas_icon"
+        android:label="MilijuNaš"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Milijunas_2021">
+        <activity android:name=".RealOtherApps"
+            android:screenOrientation="landscape"/>
+        <activity
+            android:name=".CreateActivity"
+            android:screenOrientation="landscape" />
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-2281074336539826~6756529168" />
+
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ShowActivity"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".ScoreListHelper"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".OtherApps"
+            android:screenOrientation="landscape" />
+    </application>
+
+</manifest>

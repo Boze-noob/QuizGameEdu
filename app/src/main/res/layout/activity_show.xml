@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="7"
+    android:background="@drawable/background"
+    android:orientation="horizontal"
+    xmlns:timer="http://schemas.android.com/apk/res-auto"
+    tools:context="com.applid.milijunas_2021.ShowActivity">
+
+
+    <LinearLayout
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:layout_weight="6"
+        android:orientation="vertical"
+        android:weightSum="6">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <ImageButton
+                android:layout_width="70dp"
+                android:layout_marginLeft="5dp"
+                android:id="@+id/half_half_icon"
+                android:layout_marginRight="5dp"
+                android:scaleType="fitCenter"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:src="@drawable/half_half"
+                />
+
+            <ImageButton
+                android:layout_width="50dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:id="@+id/public_icon"
+                android:src="@drawable/raja_icon"
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:layout_height="match_parent" />
+
+            <ImageButton
+                android:layout_width="50dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/phone_icon"
+                android:scaleType="fitCenter"
+                android:id="@+id/phone_icon"
+                android:background="@null"
+                android:layout_height="match_parent" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_weight="5"
+            android:gravity="bottom"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp"
+            android:paddingBottom="20dp"
+            android:orientation="vertical">
+
+
+
+            <com.google.android.gms.ads.AdView
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/adView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                ads:adSize="BANNER"
+                android:layout_marginBottom="20dp"
+                android:layout_gravity="center_horizontal"
+                ads:adUnitId="ca-app-pub-2281074336539826/1539209506">
+            </com.google.android.gms.ads.AdView>
+
+
+
+            <TextView
+                android:id="@+id/sourc_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/questions_box_border"
+                android:gravity="center"
+                android:padding="20dp"
+                android:fontFamily="sans-serif-black"
+                android:textColor="@android:color/white" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:id="@+id/a"
+                        android:background="@drawable/money_border"
+                        android:layout_width="1dp"
+                        android:layout_margin="3dp"
+                        android:padding="5dp"
+                        android:textSize="10dp"
+                        android:textColor="@android:color/white"
+                        android:fontFamily="sans-serif-black"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:tag="1" />
+
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:id="@+id/b"
+                        android:background="@drawable/money_border"
+                        android:layout_width="1dp"
+                        android:textSize="10dp"
+                        android:textColor="@android:color/white"
+                        android:fontFamily="sans-serif-black"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="3dp"
+                        android:layout_weight="1"
+                        android:tag="2" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:id="@+id/c"
+                        android:background="@drawable/money_border"
+                        android:layout_width="1dp"
+                        android:padding="5dp"
+                        android:textSize="10dp"
+                        android:layout_weight="1"
+                        android:layout_margin="3dp"
+                        android:textColor="@android:color/white"
+                        android:fontFamily="sans-serif-black"
+                        android:layout_height="wrap_content"
+                        android:tag="3" />
+
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:id="@+id/d"
+                        android:background="@drawable/money_border"
+                        android:layout_width="1dp"
+                        android:layout_weight="1"
+                        android:layout_margin="3dp"
+                        android:textSize="10dp"
+                        android:padding="5dp"
+                        android:textColor="@android:color/white"
+                        android:fontFamily="sans-serif-black"
+                        android:layout_height="wrap_content"
+                        android:tag="4" />
+
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:weightSum="14">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/money12"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="3dp"
+            android:layout_weight="1"
+            android:autoSizeTextType="uniform"
+            android:background="@drawable/million_border"
+            android:text="@string/p1000000"
+            android:textColor="@android:color/white" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/money11"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="3dp"
+            android:layout_weight="1"
+            android:autoSizeTextType="uniform"
+            android:background="@drawable/money_border"
+            android:text="@string/p250000"
+            android:textColor="@android:color/white" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/money10"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="3dp"
+            android:layout_weight="1"
+            android:background="@drawable/money_border"
+            android:text="@string/p125000"
+            android:autoSizeTextType="uniform"
+            android:textColor="@android:color/white" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/money9"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="3dp"
+            android:layout_weight="1"
+            android:background="@drawable/money_border_blue"
+            android:text="@string/p60000"
+            android:autoSizeTextType="uniform"
+            android:textColor="@android:color/white" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/money8"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="3dp"
+            android:layout_weight="1"
+            android:background="@drawable/money_border"
+            android:text="@string/p30000"
+            android:autoSizeTextType="uniform"
+            android:textColor="@android:color/white" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/money7"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="3dp"
+            android:layout_weight="1"
+            android:background="@drawable/money_border"
+            android:text="@string/p15000"
+            android:autoSizeTextType="uniform"
+            android:textColor="@android:color/white" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/money6"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="3dp"
+            android:layout_weight="1"
+            android:background="@drawable/money_border_blue"
+            android:text="@string/p7500"
+            android:autoSizeTextType="uniform"
+            android:textColor="@android:color/white" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/money5"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="3dp"
+            android:layout_weight="1"
+            android:background="@drawable/money_border"
+            android:text="@string/p5000"
+            android:autoSizeTextType="uniform"
+            android:textColor="@android:color/white" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/money4"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="3dp"
+            android:layout_weight="1"
+            android:background="@drawable/money_border"
+            android:text="@string/p3000"
+            android:autoSizeTextType="uniform"
+            android:textColor="@android:color/white" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/money3"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="3dp"
+            android:layout_weight="1"
+            android:background="@drawable/money_border"
+            android:text="@string/p2000"
+            android:autoSizeTextType="uniform"
+            android:textColor="@android:color/white" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/money2"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="3dp"
+            android:layout_weight="1"
+            android:background="@drawable/money_border_blue"
+            android:text="@string/p1000"
+            android:autoSizeTextType="uniform"
+            android:textColor="@android:color/white" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/money1"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="3dp"
+            android:layout_weight="1"
+            android:background="@drawable/money_border"
+            android:text="@string/p500"
+            android:autoSizeTextType="uniform"
+            android:textColor="@android:color/white" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/withdraw"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="3dp"
+            android:layout_weight="2"
+            android:background="@drawable/money_border"
+            android:text="@string/withdraw"
+            android:autoSizeTextType="uniform"
+            android:padding="5dp"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+</LinearLayout>

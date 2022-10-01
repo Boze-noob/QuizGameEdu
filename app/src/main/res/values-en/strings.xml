@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Miliju naš</string>
+    <string name="start_game">START GAME</string>
+    <string name="highest_score">HIGHEST SCORE</string>
+    <string name="quit">QUIT</string>
+    <string name="p500">500</string>
+    <string name="p1000">1.000</string>
+    <string name="p2000">2.000</string>
+    <string name="p3000">4.000</string>
+    <string name="p5000">8.000</string>
+    <string name="p7500">16.000</string>
+    <string name="p15000">32.000</string>
+    <string name="p30000">64.000</string>
+    <string name="p60000">125.000</string>
+    <string name="p125000">250.000</string>
+    <string name="p250000">500.000</string>
+    <string name="p1000000">1.000.000</string>
+    <string name="withdraw">WITHDRAW</string>
+    <string name="Audience_answers">Ask audience</string>
+    <string name="okay">Okay</string>
+    <string name="game_over">Game over\nYour award:</string>
+    <string name="currency">$</string>
+    <string name="withdraw_sure">Are you sure you want to surrender ?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="calling">Calling Mr. Jozo...</string>
+    <string name="second">Sec</string>
+    <string name="point">Points</string>
+    <string name="duetoscore">By points</string>
+    <string name="clearall">Clear</string>
+    <string name="duetodate">By time</string>
+    <string name="seeit">See</string>
+    <string name="other_programs">Other apps</string>
+    <string name="game_over_final">Congratulations!!! You have become a MILLIONAIRE!!</string>
+    <string name="sound">Sound</string>
+    <string name="thanks">Thank you!</string>
+    <string name="main">Main menu</string>
+    <string name="zasluge">EXTRAS</string>
+    <string name="glazba">Music</string>
+    <string name="linkovi">Links</string>
+
+    <string name="joker1">I really don not know, good luck! </string>
+    <string name="joker2">I saw it on google, the answer is </string>
+    <string name="joker3">I am not sure, but I think it is </string>
+    <string name="joker4">Dude, if I were you, I would say </string>
+    <string name="joker5">Hey neighbor, good luck to you. I will say </string>
+    <string name="joker6">You just call me when you need something. I would say </string>
+    <string name="joker7">Huhh I am not sure, I think it is </string>
+    <string name="joker8">I would say </string>
+    <string name="joker8helper">, but I am not sure</string>
+    <string name="exit">Exit</string>
+    <string name="kreiraj_pitanje">Create questions</string>
+    <string name="podjeli_svoja_pitanja_sa_drugim_igra_ima">Share your questions with other players</string>
+    <string name="fillAll">All fields are required</string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="correctAnswer">Choose the correct answer</string>
+    <string name="questionSentStr">Your question is stored :)</string>
+    <string name="otherapps">Try other apps</string>
+
+</resources>

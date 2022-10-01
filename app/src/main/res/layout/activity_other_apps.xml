@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="4"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    tools:context="com.applid.milijunas_2021.OtherApps">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:weightSum="9"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="#77000000"
+        android:gravity="center"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="1dp"
+            android:layout_weight="5"
+            android:text="@string/zasluge"
+            android:textSize="20sp"
+            android:fontFamily="sans-serif-black"
+            android:textColor="@color/goldYellow"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:weightSum="9"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="#77000000"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/glazba"
+            android:fontFamily="sans-serif-black"
+            android:textSize="16sp"
+            android:textColor="@color/goldYellow"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="20dp"
+            android:textSize="15sp"
+            android:textColor="@color/goldYellow"
+            android:text="@string/linkovi"/>
+
+        <TextView
+            android:id="@+id/songLink"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:layout_marginTop="11dp"
+            android:paddingLeft="20dp"
+            android:textSize="13sp"
+            android:textColor="@color/goldYellow"
+            android:text="YouTube: Dramatic Orchestral by JP Bianchini"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:layout_marginTop="11dp"
+            android:paddingLeft="20dp"
+            android:textSize="13sp"
+            android:textColor="@color/goldYellow"
+            android:text="Creative Commons — Attribution 3.0 Unported — CC BY 3.0"/>
+
+        <TextView
+            android:id="@+id/downloadLink"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:layout_marginTop="11dp"
+            android:paddingLeft="20dp"
+            android:textSize="13sp"
+            android:textColor="@color/goldYellow"
+            android:text="Free Download / Stream: http://bit.ly/-dramatic-orchestral"/>
+
+        <TextView
+            android:id="@+id/promotorLink"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:layout_marginTop="11dp"
+            android:paddingLeft="20dp"
+            android:textSize="13sp"
+            android:textColor="@color/goldYellow"
+            android:text="Music promoted by Audio Library https://youtu.be/o3n1uV48_2Q"/>
+
+
+    </LinearLayout>
+
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-2281074336539826/8633507609">
+    </com.google.android.gms.ads.AdView>
+
+</LinearLayout>

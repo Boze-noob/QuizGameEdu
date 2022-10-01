@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<easyQuestionsEng>
+
+    <questionBlock>
+        <question>Which golfer is known by the nickname "White Shark"?</question>
+        <a>Greg Norman</a>
+        <b>Eldrick Woods</b>
+        <c>I.Ballesteros</c>
+        <d>Jack Nicklaus</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>The city where "Heathrow" airport is located is?</question>
+        <a>London</a>
+        <b>Glasgow</b>
+        <c>Dublin</c>
+        <d>Milan</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Who wrote "Les Fleurs du Mal"?</question>
+        <a>Baudelaire</a>
+        <b>Verlaine</b>
+        <c>Flaubert</c>
+        <d>Proust</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>What does "WWW" mean?</question>
+        <a>World Wide Web</a>
+        <b>Web Week Web</b>
+        <c>World Wrestling Web</c>
+        <d>We Were Web</d>
+        <answer>1</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question>Who introduced the Perestroika political movement?</question>
+        <a>Marx</a>
+        <b>Putin</b>
+        <c>Stalin</c>
+        <d>Gorbachev</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>What is the capital of Russia?</question>
+        <a>Saint Petersburg</a>
+        <b>Kiev</b>
+        <c>Moscow</c>
+        <d>Orsk</d>
+        <answer>3</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question>What is the chemical symbol for gold?</question>
+        <a>Gd</a>
+        <b>Or</b>
+        <c>Gi</c>
+        <d>Au</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>The city where Old Trafford Stadium is located is?</question>
+        <a>Liverpool</a>
+        <b>Manchester</b>
+        <c>London</c>
+        <d>Madrid</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>In Roman numerals, the letter C means?</question>
+        <a>75</a>
+        <b>100</b>
+        <c>5</c>
+        <d>1000</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Who was the Sun God in ancient Egypt?</question>
+        <a>Anubis</a>
+        <b>Ra</b>
+        <c>Horus</c>
+        <d>Anulu</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>What currency is used in Greece?</question>
+        <a>Euro</a>
+        <b>Drachma</b>
+        <c>Lira</c>
+        <d>Greek Dollar</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>What is the capital of Bulgaria?</question>
+        <a>Bucharest</a>
+        <b>Budapest</b>
+        <c>Sofia</c>
+        <d>Kiev</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>What is the capital of Romania?</question>
+        <a>Bucharest</a>
+        <b>Budapest</b>
+        <c>Sofia</c>
+        <d>Kiev</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>In ancient Rome, the God of War was?</question>
+        <a>Ares</a>
+        <b>Mercury</b>
+        <c>Dionysus</c>
+        <d>Mars </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Who is the equivalent of Cupid in Greek mythology?</question>
+        <a>Apollo</a>
+        <b>Eros</b>
+        <c>Saturn</c>
+        <d>Jupiter</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Dionysus is the Greek God of what?</question>
+        <a>Wines</a>
+        <b>Wisdom</b>
+        <c>War</c>
+        <d>Sun</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>What currency is used in Northern Ireland?</question>
+        <a>Pound</a>
+        <b>Euro</b>
+        <c>Dollar</c>
+        <d>Lira</d>
+        <answer>1</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question>Who was the director of "E.T."?</question>
+        <a>Robert Parker</a>
+        <b>Michael P. Jackson</b>
+        <c>Ridley Scott</c>
+        <d>Steven Spielberg</d>
+        <answer>4</answer>
+    </questionBlock>
+
+<questionBlock>
+<question>Albino gorillas usually have what color fur?</question>
+<a>Brown</a>
+<b>Black</b>
+<c>White</c>
+<d>Gold</d>
+<answer>3</answer>
+</questionBlock>
+
+    <questionBlock>
+        <question>The city where the UN headquarters is located?</question>
+        <a>New York</a>
+        <b>The Hague</b>
+        <c>Geneva</c>
+        <d>Paris</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Which is S.I. temperature unit?</question>
+        <a>Kelvin</a>
+        <b>Celsius</b>
+        <c>Centigrade </c>
+        <d>Fahrenheit</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Which Disney character famously leaves a glass shoe at the royal ball?</question>
+        <a>Pocahontas</a>
+        <b>Sleeping Beauty</b>
+        <c>Cinderella</c>
+        <d>Elsa</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Which of these brands is mainly associated with the production of household locks?</question>
+        <a>Phillips</a>
+        <b>Flymo</b>
+        <c>Chubb</c>
+        <d>Ronseal</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>The sickle and hammer is one of the most famous symbols of which political ideology?</question>
+        <a>Republicanism</a>
+        <b>Communism</b>
+        <c>Conservatism</c>
+        <d>Liberalism</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>It is said that someone who expresses anger "drops his ..." what?</question>
+        <a>Spleen</a>
+        <b>Liver</b>
+        <c>Hoses</c>
+        <d>Pancreas</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>What children's toys are sold under the slogan "disguised robots"?</question>
+        <a>Bratz dolls</a>
+        <b>HotWheels</b>
+        <c>Hatchimals</c>
+        <d>Transformers</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Which of these types of sausages comes from the name of a German city?</question>
+        <a>Salami</a>
+        <b>Cumberland</b>
+        <c>Chorizo</c>
+        <d>Frankfurter</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>In The Lord of the Rings, Frodo, Sam and Bilbo come from which part of Middle-earth?</question>
+        <a>The Green</a>
+        <b>The Borough</b>
+        <c>The Shire</c>
+        <d>The City</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>1987. Whitney Houston is at the top of the British singles chart with "I Wanna ...", what? "With Somebody"?</question>
+        <a>Sing</a>
+        <b>Dance</b>
+        <c>Spend time</c>
+        <d>Have a cuddle</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Something that betrays the action or outcome of a TV show is called how?</question>
+        <a>Fender</a>
+        <b>Cjepidlaka</b>
+        <c>Scarf</c>
+        <d>Spoiler</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>What color is the head of an adult male duck?</question>
+        <a>Brown</a>
+        <b>Red</b>
+        <c>Black</c>
+        <d>Green</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Who is the leader of the Decepticons in the Transformers movie franchise?</question>
+        <a>Megaphone</a>
+        <b>Megabyte</b>
+        <c>Megatron</c>
+        <d>Megabus</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>What kind of word does the word cloudy belong to? </question>
+        <a> Adjectives </a>
+        <b> Suggestions </b>
+        <c> Attachments </c>
+        <d> Nouns </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> You will not be able to withdraw money at an ATM if you have forgotten ... </question>
+        <a> pen </a>
+        <b> Regiment </b>
+        <c> pin </c>
+        <d> tan </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> A magnet would most likely attract which of the following? </question>
+        <a> Metal </a>
+        <b> Plastic </b>
+        <c> Wood </c>
+        <d> Rubber </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> In which country did Scotch whiskey originate? </question>
+        <a> Ireland </a>
+        <b> U.S. </b>
+        <c> Scotland </c>
+        <d> Norway </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> What is the largest country in which Cyrillic is the official alphabet? </question>
+        <a> Serbia </a>
+        <b> Russia </b>
+        <c> Ukraine </c>
+        <d> Romania </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Daylight saving time in the European Union starts on the last Sunday of the month? </question>
+        <a> February </a>
+        <b> March </b>
+        <c> April </c>
+        <d> May </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> What is the largest city located on the Tiber River? </question>
+        <a> Viterbo </a>
+        <b> Rieti </b>
+        <c> Rome </c>
+        <d> Ostia </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> On a standard keyboard, exclamation mark is on which number? </question>
+        <a> 1 </a>
+        <b> 2 </b>
+        <c> 3 </c>
+        <d> 4 </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which Brazilian surprised Barthez and the French defensive wall with a fantastic 35m shot in 1997? </question>
+        <a> Roberto Carlos </a>
+        <b> Ronaldo </b>
+        <c> Romario </c>
+        <d> Flavio Conceicao </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> How many seconds have one minute? </question>
+        <a> 300 </a>
+        <b> 30 </b>
+        <c> 60 </c>
+        <d> 1 </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Trigonometry is a branch of which subject?</question>
+        <a>Economies</a>
+        <b>Math</b>
+        <c>History</c>
+        <d>Biology</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>How many players of both teams are in the pool when playing a water polo match?</question>
+        <a>7</a>
+        <b>10</b>
+        <c>14</c>
+        <d>20</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> In which city was the terrorist attack on the editorial office of the satirical magazine "Charlie Hebdo" carried out? </question>
+        <a> Paris </a>
+        <b> Madrid </b>
+        <c> London </c>
+        <d> Berlin </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> The Knights Templar wore white uniforms with a cross of what color? </question>
+        <a> Black </a>
+        <b> Green </b>
+        <c> Yellow </c>
+        <d> Red </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> If in a triangle one angle closes 40, the other 50 degrees. How many degrees does the third corner close? </question>
+        <a> 70 </a>
+        <b> 90 </b>
+        <c> 100 </c>
+        <d> 120 </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>What was the name of the space program that shares the same name as Rocky’s opponent played by Carl Weathers?</question>
+        <a> Turbo</a>
+        <b> Apollo </b>
+        <c> Fly </c>
+        <d> Rocket </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which actor replaced Charlie Sheen in the series "2 and a half men"? </question>
+        <a> Ashton Kutcher </a>
+        <b> Angus T. Jones </b>
+        <c> Chris Evans </c>
+        <d> Tom Cruise </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of the 12 judges of Israel destroyed the Philistine temple and died with the Philistines under the rubble? </question>
+        <a> Ehud </a>
+        <b> Samson </b>
+        <c> Barak </c>
+        <d> Gideon </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> According to the flag of which country is the symbol of the International Red Cross made? </question>
+        <a> Switzerland </a>
+        <b> Finland </b>
+        <c> Iceland </c>
+        <d> Norway </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Someone who follows a strict vegan diet will not do what? </question>
+        <a> Eat chicken wings </a>
+        <b> Eat a banana </b>
+        <c> Eat beans </c>
+        <d> Bowling with Guy Fier </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of these characters is typically depicted with a capital "S" on his chest? </question>
+        <a> Snoopy </a>
+        <b> Superman </b>
+        <c> Shrek </c>
+        <d> Scrooge McDuck </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> It is widely believed that the ancient Egyptians built pyramids to be used as? </question>
+        <a> Libraries </a>
+        <b> Tombs </b>
+        <c> Schools </c>
+        <d> Concert Halls </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of the following types of nuts is not a member of the United Nations? </question>
+        <a> Malaysia </a>
+        <b> Macadamia </b>
+        <c> Mauritania </c>
+        <d> Mongolia </d>
+        <answer>2</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question>Which of these vehicles usually does not have a steering wheel?</question>
+        <a>Motorcycle</a>
+        <b>Tricycle</b>
+        <c>Bicycle</c>
+        <d>Unicycle</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>What result do we get when we subtract 18 from 37?</question>
+        <a>21</a>
+        <b>19</b>
+        <c>17</c>
+        <d>15</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Complete the title of the James Bond movie. "The man with the gold ..."</question>
+        <a>Tooth</a>
+        <b>Gun</b>
+        <c>Dagger</c>
+        <d>Eagle</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> How many players are there in the water polo team? </question>
+        <a> 2 </a>
+        <b> 7 </b>
+        <c> 9 </c>
+        <d> 11 </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> In which country is the Taj Mahal located? </question>
+        <a> India </a>
+        <b> Egypt </b>
+        <c> China </c>
+        <d> Japan </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> What year did World War II end? </question>
+        <a> 1918. </a>
+        <b> 1939. </b>
+        <c> 1945. </c>
+        <d> 1991. </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> What year did the First World War end? </question>
+        <a> 1918. </a>
+        <b> 1939. </b>
+        <c> 1945. </c>
+        <d> 1991. </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> The Friends series takes place in which city? </question>
+        <a> Los Angeles </a>
+        <b> New York </b>
+        <c> Miami </c>
+        <d> Washington </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> For which NBA club does Bojan Bogdanović currently play? </question>
+        <a> Utah Jazz </a>
+        <b> Chicago Bulls </b>
+        <c> Los Angeles Clippers </c>
+        <d> Atlanta Hawks </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> In the US, if it's not daylight saving time, then what is? </question>
+        <a> Borrowed time </a>
+        <b> Overtime </b>
+        <c> Standard time </c>
+        <d> Fun time </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of the following planets in the solar system does not have a ring? </question>
+        <a> Saturn </a>
+        <b> Jupiter </b>
+        <c> Neptune </c>
+        <d> Venus </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Luftwaffe is the aviation of which country? </question>
+        <a> Germany </a>
+        <b> Switzerland </b>
+        <c> Austria </c>
+        <d> Denmark </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> When was the handball world championship opened in Croatia? </question>
+        <a> 2000. </a>
+        <b> 2001. </b>
+        <c> 2009. </c>
+        <d> 2016. </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Sailor and researcher James Cook was born in which country? </question>
+        <a> England </a>
+        <b> Denmark </b>
+        <c> Italy </c>
+        <d> Germany </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> A person with well-developed abdominal muscles is said to have what? </question>
+        <a> One-pack </a>
+        <b> Six-pack </b>
+        <c> 12-pack </c>
+        <d> Family-pack </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of these names is not in the title of Shakespeare's play? </question>
+        <a> Hamlet </a>
+        <b> Romeo </b>
+        <c> Macbeth </c>
+        <d> Darren </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> What is the traditional "right" way to address a judge in the United States? </question>
+        <a> Your holiness </a>
+        <b> Your honor </b>
+        <c> Your eminence </c>
+        <d> You da man! </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of these application pairs offers approximately the same type of service? </question>
+        <a> Snapchat and Grubhub </a>
+        <b> Whatsapp and SHAREit </b>
+        <c> TickTok and Spotify </c>
+        <d> Lyft and Uber </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> In a restaurant, what does someone who "settles the bill" do? </question>
+        <a> Love him </a>
+        <b> Break it up </b>
+        <c> He hopes to be lucky </c>
+        <d> Pay it </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> According to the old saying, "love of" what is the "root of all evil"? </question>
+        <a> Food </a>
+        <b> Money </b>
+        <c> Clothing </c>
+        <d> Reality Television </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Something is said to be in the obvious location "right in front of" your? </question>
+        <a> Mattress </a>
+        <b> Nose </b>
+        <c> Window </c>
+        <d> Bicycle </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> When a tree is cut down, the part that remains in the ground is called how? </question>
+        <a> Rump </a>
+        <b> Hump </b>
+        <c> Remains </c>
+        <d> Stump </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> By definition, a 10-speed bike has 10 what? </question>
+        <a> Dots </a>
+        <b> Spoke </b>
+        <c> Gears </c>
+        <d> Life </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> A lullaby is a song sung to babies to help them? </question>
+        <a> Awakening </a>
+        <b> Fall asleep </b>
+        <c> I eat </c>
+        <d> They're thinking </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> In history books, rulers named Alexander and Catherine share a flattering title? </question>
+        <a> Crude </a>
+        <b> Great </b>
+        <c> Indomitable </c>
+        <d> Eco-conscious </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> In the popular style of jokes, what traditionally comes before "Who's there?"? </question>
+        <a> Rat-a-tat-tat </a>
+        <b> Cooee </b>
+        <c> Knock-knock </c>
+        <d> Ding dong </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of the following is a musical instrument? </question>
+        <a> Mandrake </a>
+        <b> Mandalay </b>
+        <c> Mandolin </c>
+        <d> Mandril </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> What does BFF stand for? </question>
+        <a> Buff Fit Fella </a>
+        <b> Bye for Five </b>
+        <c> Boy Friend Furious </c>
+        <d> Best Friends Forever </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of these sports has a variety called "white water"? </question>
+        <a> Speed Scroll </a>
+        <b> Dressage </b>
+        <c> Gymnastics </c>
+        <d> Rafting </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> What is the nickname of movie star and wrestler Dwayne Johnson? </question>
+        <a> Weak </a>
+        <b> Boulder </b>
+        <c> Cobblestone </c>
+        <d> Rock </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Kangaroos are from which country? </question>
+        <a> Peru </a>
+        <b> Kenya </b>
+        <c> Australia </c>
+        <d> Ireland </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> What was the name of the band led by Jim Morrison? </question>
+        <a> The Doors </a>
+        <b> The Windows </b>
+        <c> The Floors </c>
+        <d> The Ceilings </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>What is the smallest country in the world?</question>
+        <a>France</a>
+        <b>Spain</b>
+        <c>Italy</c>
+        <d>Vatican City</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>What kind of animal did Cleopatra use to kill herself?</question>
+        <a>A snake</a>
+        <b>A dog</b>
+        <c>A elephant</c>
+        <d>A spider</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>The Statue of Liberty was a gift from which country?</question>
+        <a>France</a>
+        <b>Spain</b>
+        <c>England</c>
+        <d>Italy</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>The Cold War was between the United States and what other world power?</question>
+        <a>France</a>
+        <b>Soviet Union</b>
+        <c>Germany</c>
+        <d>China</d>
+        <answer>2</answer>
+    </questionBlock>
+
+</easyQuestionsEng>

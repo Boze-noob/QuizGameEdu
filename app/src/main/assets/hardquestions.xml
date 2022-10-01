@@ -1,0 +1,950 @@
+<?xml version="1.0"?>
+
+<hardQuestions>
+
+    <questionBlock>
+        <question>Oscar je utemeljen koje godine?</question>
+        <a>1968.</a>
+        <b>1929.</b>
+        <c>1901.</c>
+        <d>1965.</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kada je Margaret Thatcher postala premijerka Velike Britanije?</question>
+        <a>1998.</a>
+        <b>1989.</b>
+        <c>1979.</c>
+        <d>1800.</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje godine je Kina po prvi put testirala svoje nuklearno oružje</question>
+        <a>1962.</a>
+        <b>1963.</b>
+        <c>1964.</c>
+        <d>1965.</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kada je zapovjednik Robert Peary otkrio Sjeverni pol?</question>
+        <a>1904.</a>
+        <b>1905.</b>
+        <c>1908.</c>
+        <d>1909.</d>
+        <answer>4</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question>Koji je domet rakete Akash?</question>
+        <a>4 km</a>
+        <b>25 km</b>
+        <c>9 km</c>
+        <d>150 km</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je bio domet nacističke rakete V-2?</question>
+        <a>3 km</a>
+        <b>25 km</b>
+        <c>50 km</c>
+        <d>320 km</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji dio tijela ćete najvjerojatnije slomiti?</question>
+        <a>Nožni prst</a>
+        <b>Koljeno</b>
+        <c>Lakat</c>
+        <d>Mozak</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Ozonski sloj spriječava prolaz čega?</question>
+        <a>Svemirske Hladnoće</a>
+        <b>InfracrvenoG zračenjA</b>
+        <c>X-zraka i gama zraka</c>
+        <d>Ultraljubičastog zračenje</d>
+        <answer>4</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question>Fa-Hien je bio?</question>
+        <a>Prvi budistički hodočasnik iz Kine</a>
+        <b>Otkrivač Portorika i Jamajke</b>
+        <c>Prvi budistički hodočasnik iz Indije</c>
+        <d>Izumitelj prvog mehaničkog sata</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je od ovih kitova klasificiran kao zubasti kit?</question>
+        <a>Sivi kit</a>
+        <b>Oštrokljuni kit</b>
+        <c>Kit ulješura</c>
+        <d>Grbavi kit</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je jedini britanski političar koji je u nekom trenutku svoje karijere obnašao sva četiri "velika državna ureda"?</question>
+        <a>David Lloyd George</a>
+        <b>Harold Wilson</b>
+        <c>James Callaghan</c>
+        <d>John Major</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je gusar 1718. poginuo u bitci kod obala današnje Sjeverne Karoline?</question>
+        <a>Calico Jack</a>
+        <b>Blackbeard</b>
+        <c>Bartholomew Roberts</c>
+        <d>Captain Kidd</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je engleski kralj 1513. pobijedio u Bitci za Spurse?</question>
+        <a>Richard III.</a>
+        <b>Henry VII.</b>
+        <c>Henry VIII.</c>
+        <d>Edward VI.</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje je boje bila legendarna trenerka koju je Uma Thurman nosila u filmu "Kill Bill"?</question>
+        <a>Bijele</a>
+        <b>Plave</b>
+        <c>Žute</c>
+        <d>Crne</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je od navedenih osvojio Oscara za ulogu u kojoj je glumio monarha?</question>
+        <a>Judi Dench</a>
+        <b>Helen Miren</b>
+        <c>Colin Firth</c>
+        <d>Mel Gibson</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je monarh bio poznat kao "najmudrija budala u kršćanstvu"?</question>
+        <a>Henry I</a>
+        <b>Edward I</b>
+        <c>Charles I</c>
+        <d>James I</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je kralj bio oženjen sa Eleanorom, vojvotkinjom od Akvitanije? </question>
+        <a>Henry I</a>
+        <b>Henry II</b>
+        <c>Richard I</c>
+        <d>Henry V</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Oberon je satelit kojeg planeta?</question>
+        <a>Merkura</a>
+        <b>Neptuna</b>
+        <c>Urana</c>
+        <d>Marsa</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>1912. godine bivši američki predsjednik Theodore Roosevelt bio je kandidat za koju političku stranku?</question>
+        <a>Bull Moose</a>
+        <b>Bull Dog</b>
+        <c>Bull Frog</c>
+        <d>Bull Elephant</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tomas Masaryk bio je prvi predsjednik koje države?</question>
+        <a>Poljske</a>
+        <b>Čehoslovačke</b>
+        <c>Mađarske</c>
+        <d>Jugoslavije</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Ako biste posadili sjeme "Quercus robur", što bi izraslo?</question>
+        <a>Žitarica</a>
+        <b>Cvijet</b>
+        <c>Povrće</c>
+        <d>Stablo</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Broj jedan iza kojeg slijedi sto nula poznat je pod kojim imenom?</question>
+        <a>Nanomole</a>
+        <b>Gigabit</b>
+        <c>Googol</c>
+        <d>Megtron</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je znanstvena jedinica dobila ime po talijanskom plemiću?</question>
+        <a>Pascal</a>
+        <b>Ohm</b>
+        <c>Volt</c>
+        <d>Hertz</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što je po zanimanju bio skladatelj Borodin?</question>
+        <a>Mornarički kapetan</a>
+        <b>Kemičar</b>
+        <c>Odvjetnik</c>
+        <d>Kuhar</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je od navedenih leptir, a ne moljac?</question>
+        <a>Mother Shipton</a>
+        <b>Red Underwing</b>
+        <c>Burnished Brass</c>
+        <d>Speckled Wood</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja od ovih nije jedna od američkih trkaćih konjskih utrka "Triple Crown"?</question>
+        <a>Arlington Million</a>
+        <b>Belmont Stakes</b>
+        <c>Kentucky Derby</c>
+        <d>Preakness Stakes</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je bio prvi čovjek koji je dva puta putovao u svemir?</question>
+        <a>Vladimir Titov</a>
+        <b>Michael Collins</b>
+        <c>Gus Garissom</c>
+        <d>Yuri Gagarin</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je boksač bio poznat po udaranju gonga u uvodu u filmove o J. Arthur Ranku?</question>
+        <a>Bombardier Billy Wells</a>
+        <b>Freddie Mills</b>
+        <c>Terry Spinks</c>
+        <d>Don Cockell</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji od ovih premijera Velike Britanije nikada nije bio ministar vanjskih poslova?</question>
+        <a>Alex Douglas </a>
+        <b>Winston Churchill</b>
+        <c>Anthony Eden</c>
+        <d>Harold Macmillan</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko se od navedenih ljudi rodio iste godine kad i kraljica Elizabeta II?</question>
+        <a>Audrey Hepburn</a>
+        <b>Judy Garland</b>
+        <c>Julie Andrews</c>
+        <d>Marily Monroe</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je od ovih legendarnih utrka u povijesti automobilističkog sporta održana prva?</question>
+        <a>Le Mans 24 hours</a>
+        <b>Monaco Grand Prix</b>
+        <c>Indy 500</c>
+        <d>Isle of Man TT</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Prema Robertu Burnsu, koja je hrana "Veliki poglavica puding-utrke"?</question>
+        <a>Čajna torta</a>
+        <b>Sarmica od ovčijih iznutrica</b>
+        <c>Kolutić od slanine</c>
+        <d>Ljepljivi puding od karamele</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U mitologiji, koje je stvorenje izniklo iz krvi Meduze?</question>
+        <a>Pegaz</a>
+        <b>Grifin</b>
+        <c>Hidra</c>
+        <d>Kentaur</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je od navedenih prvi osvojio dvije nagrade Oskara za najboljeg redatelja?</question>
+        <a>Stephen Spielberg</a>
+        <b>Clint Eastwood</b>
+        <c>Oliver Stone</c>
+        <d>Francis Ford Coppola</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je napisao operu Lopovska svraka?</question>
+        <a>Rossini</a>
+        <b>Verdi</b>
+        <c>Donizetti</c>
+        <d>Puccini</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Riječi "Royal Dutch" pojavljuju se u punom nazivu koje tvrtke?</question>
+        <a>Esso</a>
+        <b>Shell</b>
+        <c>BP</c>
+        <d>Texaco</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Na obalama kojeg jezera stoje ruševine dvorca Urquhart?</question>
+        <a>Loch Lomond</a>
+        <b>Loch Ness</b>
+        <c>Loch Broom</c>
+        <d>Loch Maree</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Grimizno pismo roman je kojeg američkog književnika?</question>
+        <a>Herman Melville</a>
+        <b>Nathanial Hawthorne</b>
+        <c>Jack London</c>
+        <d>John Steinbeck</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tvrdi vanjski kostur insekta izrađen je uglavnom od koje supstance?</question>
+        <a>Hitin</a>
+        <b>Keratin</b>
+        <c>Glikogen</c>
+        <d>Lignin</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je najjužniji glavni grad savezne države u SAD-u?</question>
+        <a>Baton Rouge</a>
+        <b>Tallahassee</b>
+        <c>Little Rock</c>
+        <d>Phoenix</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja se od ovih TV serija prvi put emitirala sedamdesetih?</question>
+        <a>Til Death Us Do Part</a>
+        <b>Mastermind</b>
+        <c>Dad’s Army</c>
+        <d>Doctor Who</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Ime kojeg europskog glavnog grada na svom materinjem jeziku znači "Zaljev dima"?</question>
+        <a>Kopenhagen</a>
+        <b>Amsterdam</b>
+        <c>Reykjavik</c>
+        <d>Vilnius</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je jedini monarh koji se i rodio i umro u Buckinghamskoj palači?</question>
+        <a>George V</a>
+        <b>Edward VII</b>
+        <c>Victoria</c>
+        <d>William IV</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je njemački meteorolog 1912. kontroverzno predložio teoriju kontinentalnog zanosa?</question>
+        <a>Alexander von Humboldt</a>
+        <b>Abraham Ortelius</b>
+        <c>Alfred Wegener</c>
+        <d>Eduard Suess</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje godine je austro-ugarska vojska uhitila Andrijicu Šimića?</question>
+            <a>1860.</a>
+            <b>1865.</b>
+            <c>1871.</c>
+            <d>1875.</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U kojoj državi satirički tjednik Okovani patak izlazi od 1915?</question>
+        <a>Danskoj</a>
+        <b>Italiji</b>
+        <c>Njemačkoj</c>
+        <d>Francuskoj</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Na kojoj se afričkoj rijeci odvija radnja Konradova Srca tame?</question>
+        <a>Nil</a>
+        <b>Niger</b>
+        <c>Kongo</c>
+        <d>Zambezi</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koliko je godina imao Neil Armstrong kad je hodao po Mjesecu?</question>
+        <a>38</a>
+        <b>31</b>
+        <c>35</c>
+        <d>34</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>AQaba je jedina morska luka koje države?</question>
+        <a>Maroka</a>
+        <b>Jordana</b>
+        <c>Iraka</c>
+        <d>Sirije</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Racineova Fedra remek-djelo je iz kojeg književnog razdoblja?</question>
+        <a>Klasicizma</a>
+        <b>Romantizma</b>
+        <c>Realizma</c>
+        <d>Modernizma</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U što vjeruje Amerigo Bonasera, sudeći po uvodnoj rečenici iz legendarnog filma Kum?</question>
+        <a>U obitelj</a>
+        <b>U mafiju</b>
+        <c>U Ameriku</c>
+        <d>U novac</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Barun Haussman najpoznatiji je po planiranju kojeg grada?</question>
+        <a>Pariza</a>
+        <b>Rima</b>
+        <c>Atene</c>
+        <d>Berlina</d>
+        <answer>1</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question>Prvi put izvedena 1804., Beethovenova "Eroica Symphony" izvorno je bila posvećena kojoj povijesnoj ličnosti?</question>
+        <a>Marie Antoinette</a>
+        <b>Napoleon Bonaparte</b>
+        <c>Louis XVIII</c>
+        <d>Voltaire</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>S kojom je državom Švicarska povezana željezničkim tunelom Simplon?</question>
+        <a>Njemačkom</a>
+        <b>Austrijom</b>
+        <c>Italijom</c>
+        <d>Francuskom</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Nedostatak kojeg vitamina uzrokuje smanjenu količinu retinala i rodopsina?</question>
+        <a>A</a>
+        <b>B</b>
+        <c>C</c>
+        <d>D</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Ako je klor solik, a fluor jedik, koji je kemijski element svjetlik?</question>
+        <a>Argon</a>
+        <b>Živa</b>
+        <c>Sumpor</c>
+        <d>Fosfor</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kojom su državom u 3. stoljeću prije Krista zavladali članovi obitelji Barkas?</question>
+        <a>Rimom</a>
+        <b>Kartagom</b>
+        <c>Atenom</c>
+        <d>Egiptom</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koju boju Lorca voli u stihu "Verde que te quiero verde"?</question>
+        <a>Crvenu</a>
+        <b>Žutu</b>
+        <c>Zelenu</c>
+        <d>Plavu</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje su godine Nijemci prvi put upotrijebili leteće projektile Fau 1?</question>
+        <a>1939.</a>
+        <b>1942.</b>
+        <c>1944.</c>
+        <d>1950.</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje je nacionalnosti moderni arhitekt Alvar Aalto?</question>
+        <a>Finske</a>
+        <b>Švedske</b>
+        <c>Danske</c>
+        <d>Norveške</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Potkraj veljače 2016. godine održana je koja po redu dodjela Oskara?</question>
+        <a>84</a>
+        <b>86</b>
+        <c>88</c>
+        <d>90</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koliko je kćeri Mnemozina rodila Zeusu?</question>
+        <a>1</a>
+        <b>5</b>
+        <c>7</c>
+        <d>9</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Na kojem je jeziku prvi put objavljen izvorni dnevnik Anne Frank?</question>
+        <a>Njemačkom</a>
+        <b>Francuskom</b>
+        <c>Nizuzemskom</c>
+        <d>Engleskom</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je kukac skratio rano superračunalo i nadahnuo izraz "računalna greška"?</question>
+        <a>Moljac</a>
+        <b>Pauk</b>
+        <c>Leptir</c>
+        <d>Japanska buba</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Prije nego što su američke kolonije prešle na gregorijanski kalendar, na koji je datum započinjala njihova nova godina?</question>
+        <a>25.03.</a>
+        <b>01.05.</b>
+        <c>25.11.</c>
+        <d>01.12.</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je jedini odbio Nobelovu nagradu za mir?</question>
+        <a>Albert Schweitzer</a>
+        <b>Le Duc Tho</b>
+        <c>Andrei Sakharov</c>
+        <d>Aung San Suu Kyi</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kome se pripisuje izum prvog helikoptera za masovnu proizvodnju?</question>
+        <a>Igor Sikorsky</a>
+        <b>Elmer Sperry</b>
+        <c>Ferdinand von Zeppelin</c>
+        <d>Gottlieb Daimler</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Poznati pedijatar i autor dr. Benjamin Spock je u kojem sportu osvojio zlatnu olimpijsku medalju?</question>
+        <a>Plivanje</a>
+        <b>Veslanje</b>
+        <c>Mačevanje</c>
+        <d>Jedrenje</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji od ovih brodova nije bio jedan od tri koja su kolonisti preuzeli tijekom Bostonske čajanke?</question>
+        <a>Eleanor</a>
+        <b>Dartmouth</b>
+        <c>Beaver</c>
+        <d>William</d>
+        <answer>4</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question>Prema Zavodu za popis stanovništva, koliki je približno broj ljudi koji su ikada živjeli na Zemlji?</question>
+        <a>50 milijuna</a>
+        <b>100 milijardi</b>
+        <c>1 trilijun</c>
+        <d>5 trilijuna</d>
+        <answer>2</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question>"Nephelococcygia" je što?</question>
+        <a>Pronalaženje oblika u oblacima</a>
+        <b>Spavanje otvorenih očiju</b>
+        <c>Razbijanje stakla svojim glasom</c>
+        <d>Kupanje u ledenoj vodi</d>
+        <answer>1</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question>Koje godine je Stjepan Vukčić Kosača po prvi put oslovljen sa titulom hercega?</question>
+        <a>1461.</a>
+        <b>1448.</b>
+        <c>1512.</c>
+        <d>1550.</d>
+        <answer>2</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question>Koji je poznati hrvatski kipar izradio mjedeni kip Dive Grabovčeve?</question>
+        <a>Branko Ružić</a>
+        <b>Vasko Lipovac</b>
+        <c>Juraj Škarpa</c>
+        <d>Kuzma Kovačić</d>
+        <answer>4</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question>U kojem mjestu je rođena Diva Grabovčeva?</question>
+        <a>Mluša</a>
+        <b>Rumboci</b>
+        <c>Varvare</c>
+        <d>Ripci</d>
+        <answer>3</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question>Skokovi sa Starog mosta u Mostaru je tradicionalno natjecanje ustanovljeno koje godine?</question>
+        <a>1664.</a>
+        <b>1900.</b>
+        <c>1968</c>
+        <d>2001.</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kako glasi prvi stih Dizdarove pjesme Modra rijeka?</question>
+        <a>Iza gore iza dola</a>
+        <b>Preko gloga preko drače</b>
+        <c>Iza devet iza deset</c>
+        <d>Nitko ne zna gdje je ona</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Cornelius van Drebbel bio je pozant po izgradnji čega?</question>
+        <a>Podmornice</a>
+        <b>Helikoptera</b>
+        <c>Hoverkrafta</c>
+        <d>Parne lokomotive</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kako se zvao američki ljekarnik, koji je 1885. godine izumio najpopularnije piće na svijetu, Coca Colu?</question>
+        <a>Caleb Bradham</a>
+        <b>John Pemberton</b>
+        <c>John Abel</c>
+        <d>Otto Folin</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Mehmed Ali-Agca pokušao je ubiti?</question>
+        <a>Ivana Pavla II</a>
+        <b>Benedicta XVI</b>
+        <c>Ivana Pavla I</c>
+        <d>Benedicta X</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kada su se održale druge Zimske olimpijeke igre u St.Mortizu?</question>
+        <a>1918.</a>
+        <b>1928.</b>
+        <c>1932</c>
+        <d>1976.</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kada je prvi put upotrebljen Insulin pri liječenju dijabetesa?</question>
+        <a>1901.</a>
+        <b>1888.</b>
+        <c>1922.</c>
+        <d>1932.</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je vulkan eruptirao u Peruu 1942. i usmrtio 4000 ljudi?</question>
+        <a>Ubinas</a>
+        <b>Ampato</b>
+        <c>Misti</c>
+        <d>Huascaran</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Sjedište UN-a u New York-u počelo je sa radom koje godine?</question>
+        <a>1945.</a>
+        <b>1951.</b>
+        <c>1955.</c>
+        <d>1968.</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što je uradio Jan Palach 1969. godine usred Praga?</question>
+        <a>Utopio se</a>
+        <b>Zapalio se</b>
+        <c>Objesio se</c>
+        <d>Ustrijelio se</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kada je SAD proizveo prvu hidrogensku bombu?</question>
+        <a>1914.</a>
+        <b>1939.</b>
+        <c>1955.</c>
+        <d>1952.</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje godine je sastavljen Vinodolski zakonik?</question>
+        <a>1008.</a>
+        <b>1288.</b>
+        <c>1492.</c>
+        <d>1621.</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je od navedenih tv-voditeljica godine 2001. istrčala Pariški maraton?</question>
+        <a>Mirjana Harga</a>
+        <b>Sandra Antolić</b>
+        <c>Mirna Zidarić</c>
+        <d>Ines Preindl</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Lik kicoša Eustacea Tilleyja zaštitni je znak...</question>
+        <a>New Yorkera</a>
+        <b>Timea</b>
+        <c>Wall Street Journala</c>
+        <d>Charlie Hebdoa</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje je naselje u fokusu jezikoslovaca zbog vrlo složenog kajkavskog govora?</question>
+        <a>Bedekovčina</a>
+        <b>Bednja</b>
+        <c>Budiniščina</c>
+        <d>Sošice</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koliko je Philo Farnsworth imao godina kada je izumio televiziju?</question>
+        <a>16</a>
+        <b>21</b>
+        <c>35</c>
+        <d>46</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje je godine završio rat 1812?</question>
+        <a>1812.</a>
+        <b>1813.</b>
+        <c>1814.</c>
+        <d>1815.</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Gdje je bilo Kleopatrino rodno mjesto?</question>
+        <a>Grčkoj</a>
+        <b>Egipatu</b>
+        <c>Rimu</c>
+        <d>Indiji</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koliko ćelija ima ameba?</question>
+        <a>3</a>
+        <b>0</b>
+        <c>1</c>
+        <d>5</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koliko je američkih predsjednika ubijeno?</question>
+        <a>1</a>
+        <b>2</b>
+        <c>4</c>
+        <d>5</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Po kojem je američkom državljaninu nazvana Afrička država Monrovia?</question>
+        <a>James Monroe</a>
+        <b>David Monroe</b>
+        <c>Marilyn Monroe</c>
+        <d>Calvin Joe Monroe</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kada je potpisana Deklaracija neovisnosti Sjedinjenih Država?</question>
+        <a>2. srpanj</a>
+        <b>2. kolovoz</b>
+        <c>4. srpanj</c>
+        <d>4. kolovoz</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje godine se Mostar spominje prvi put kao grad?</question>
+        <a>1451.</a>
+        <b>1380.</b>
+        <c>1452.</c>
+        <d>1689.</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje životinje spavaju sa jednim okom otvorenim?</question>
+        <a>Štakori</a>
+        <b>Krokodili</b>
+        <c>Dupini</c>
+        <d>Konji</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje živo biće ima najveće oči na svijetu?</question>
+        <a>Kit</a>
+        <b>Slon</b>
+        <c>Divovska lignja</c>
+        <d>Žirafa</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Polarni medvjed može plivati koliko kilometara bez zaustavljanja?</question>
+        <a>10</a>
+        <b>100</b>
+        <c>50</c>
+        <d>150</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Na kojim otocima živi školjka koja se može penjati po drveću?</question>
+        <a>Karibima</a>
+        <b>Maldivima</b>
+        <c>Indonezijskim</c>
+        <d>Sejšelima</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koliko mjeseci slonica nosi mladunče u trbuhu?</question>
+        <a>20</a>
+        <b>24</b>
+        <c>22</c>
+        <d>26</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koliko noseva ima puž?</question>
+        <a>2</a>
+        <b>3</b>
+        <c>4</c>
+        <d>7</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja od ovih država nije u Južnoj Americi?</question>
+        <a>Urugvaj</a>
+        <b>Mauritania</b>
+        <c>Nicaragua</c>
+        <d>Surinam</d>
+        <answer>2</answer>
+    </questionBlock>
+
+</hardQuestions>

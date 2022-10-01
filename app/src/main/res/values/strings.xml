@@ -1,0 +1,64 @@
+<resources>
+
+    <string name="app_name">Miliju naš</string>
+    <string name="start_game">POKRENI IGRU</string>
+    <string name="highest_score">NAJBOLJI REZULTAT</string>
+    <string name="quit">IZLAZ</string>
+    <string name="p500">500</string>
+    <string name="p1000">1.000</string>
+    <string name="p2000">2.000</string>
+    <string name="p3000">4.000</string>
+    <string name="p5000">8.000</string>
+    <string name="p7500">16.000</string>
+    <string name="p15000">32.000</string>
+    <string name="p30000">64.000</string>
+    <string name="p60000">125.000</string>
+    <string name="p125000">250.000</string>
+    <string name="p250000">500.000</string>
+    <string name="p1000000">1.000.000</string>
+    <string name="withdraw">PREDAJA</string>
+    <string name="Audience_answers">Pitaj raju</string>
+    <string name="okay">Ok</string>
+    <string name="game_over">Igra je ZAVRŠENA\nTvoja nagrada:</string>
+    <string name="currency">KM</string>
+    <string name="withdraw_sure">Jeste li sigurni da se želite predati ?</string>
+    <string name="no">Ne</string>
+    <string name="yes">Da</string>
+    <string name="calling">Zovem gosp. Jozu...</string>
+    <string name="second">Sec</string>
+    <string name="point">Bodova</string>
+    <string name="duetoscore">Po bodovima</string>
+    <string name="clearall">Očisti</string>
+    <string name="duetodate">Po Vremenu</string>
+    <string name="seeit">Vidi</string>
+    <string name="other_programs">Ostale aplikacije</string>
+    <string name="game_over_final">Čestitam!!! Postali ste MILIJUNAŠ!!</string>
+    <string name="sound">Zvuk</string>
+    <string name="thanks">Fala ti!</string>
+    <string name="main">Glavni izbornik</string>
+    <string name="zasluge">ZASLUGE</string>
+    <string name="glazba">Glazba</string>
+    <string name="linkovi">Linkovi</string>
+
+    <string name="joker1">Ee ne znam ti da me ubiješ sad,et sretno!.</string>
+    <string name="joker2">Vidio sam na google, odgovor je  </string>
+    <string name="joker3">Nisam siguran, al mislim da je </string>
+    <string name="joker4">Asu, da sam na tvom mistu reko bi </string>
+    <string name="joker5">Ee susjed, sretno ti. Reći ću </string>
+    <string name="joker6">Samo me zoves kad ti triba nešto. Reko bi da je </string>
+    <string name="joker7">Aaa nemogu se sitit sad nikako, mislin da je  </string>
+    <string name="joker8"> A di mene nađe Jozo, ovako na prvu reko bi da je </string>
+    <string name="joker8helper">, al nisam siguran</string>
+    <string name="exit">Izlaz</string>
+    <string name="kreiraj_pitanje">Kreiraj pitanja</string>
+    <string name="podjeli_svoja_pitanja_sa_drugim_igra_ima">Podijeli svoja pitanja sa drugim igračima</string>
+    <string name="fillAll">Potrebno je ispuniti sva polja</string>
+    <string name="send">Pošalji</string>
+    <string name="cancel">Odustani</string>
+    <string name="correctAnswer">Odaberi točan odgovor</string>
+    <string name="questionSentStr">Vaše pitanje je pohranjeno :)</string>
+    <string name="otherapps">Isprobaj ostale aplikacije</string>
+
+
+
+</resources>

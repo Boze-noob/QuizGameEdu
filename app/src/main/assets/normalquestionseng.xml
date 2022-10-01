@@ -1,0 +1,748 @@
+<?xml version="1.0"?>
+
+<normalQuestionsEng>
+
+
+    <questionBlock>
+        <question>What is the national emblem of Canada?</question>
+        <a>Maple Leaf</a>
+        <b>Brown Bear</b>
+        <c>Polar bear</c>
+        <d>Oak leaf</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> How is the largest freshwater lake in the world? </question>
+        <a> Lake Union </a>
+        <b> Lake Superior </b>
+        <c> Lake Largest </c>
+        <d> Lake Goodwin </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Hamid Karzai became president of Afghanistan in what year? </question>
+        <a> 2000. </a>
+        <b> 2001. </b>
+        <c> 2002. </c>
+        <d> 2003. </d>
+        <answer>3</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question> When and where was hockey introduced for women at the Olympics? </question>
+        <a> 1908 in London </a>
+        <b> 1980 in Moscow </b>
+        <c> 1936 in Berlin </c>
+        <d> 1924 in Paris </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Who is the inventor of dynamite? </question>
+        <a> Enrico Ferml </a>
+        <b> Albert Einstein </b>
+        <c> Alfred Nobel </c>
+        <d> Benjamin Franklin </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Who Invented Cinema? </question>
+        <a> Cinemas Brothers </a>
+        <b> Lumiere Brothers </b>
+        <c> The Wright Brothers </c>
+        <d> Sandish Brothers </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Obstetrics is a branch of medicine that deals specifically with what? </question>
+        <a> Costumes </a>
+        <b> Childbirth </b>
+        <c> Heart conditions </c>
+        <d> Age </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of these religious rites lasts the shortest during a calendar year? </question>
+        <a> Ramadan </a>
+        <b> Diwali </b>
+        <c> Lent </c>
+        <d> Hanukkah </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which archipelago at the nearest point is located just 50 miles southeast of the Florida coast? </question>
+        <a> US Virgin Islands </a>
+        <b> Bahamas </b>
+        <c> Turks and Caicos Islands </c>
+        <d> Bermuda </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of these famous landmarks was completed first? </question>
+        <a> Empire State Building </a>
+        <b> Royal Albert Hall </b>
+        <c> Eiffel Tower </c>
+        <d> Big Ben </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which country joined the Rugby Alliance in the Five Nations Championship in 2000 to become a six nation? </question>
+        <a> Argentina </a>
+        <b> Georgia </b>
+        <c> Italy </c>
+        <d> Spain </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> What does the term dry wind blowing from North Africa mean, which collects moisture across the Mediterranean? </question>
+        <a> Mistral </a>
+        <b> Sargasso </b>
+        <c> Pampero </c>
+        <d> Sirocco </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> The song "Take a Chance on Me" is part of which musical? </question>
+        <a> West Side Story </a>
+        <b> Mamma Mia </b>
+        <c> Chicago </c>
+        <d> The Phantom of the Opera </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> What is the capital of Lithuania? </question>
+        <a> Tallinn </a>
+        <b> Riga </b>
+        <c>Vilnius</c>
+        <d> Minsk </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> In the Harry Potter books and movies, which wizarding family calls their house The Burrow? </question>
+        <a> Malfoy </a>
+        <b> Weasly </b>
+        <c> Lovegood </c>
+        <d> Longbottom </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> The Loire is the longest river in which country? </question>
+        <a> France </a>
+        <b> Belgium </b>
+        <c> Switzerland </c>
+        <d> The Netherlands </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> How many colors are in the standard Google logo? </question>
+        <a> 2 </a>
+        <b> 4 </b>
+        <c> 6 </c>
+        <d> 8 </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of these countries has the most time zones? </question>
+        <a> Russia </a>
+        <b> China </b>
+        <c> USA </c>
+        <d> France </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of these novels was not originally written in Russian? </question>
+        <a> Crime and Punishment </a>
+        <b> War and Peace </b>
+        <c> Reason and feelings </c>
+        <d> Master and Margarita </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> The first university in North America is? </question>
+        <a> Harvard </a>
+        <b> Washington </b>
+        <c> Yale </c>
+        <d> Oxford </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Since 2011, Brendan O’Carroll has starred in which sitcom? </question>
+        <a> Mrs. Brown’s Boys </a>
+      <b>  Mrs. Brown’s Babes </b>
+    <c>Mrs. Brown’s Baboons </c>
+    <d>Mrs. Brown’s Bust Ups </d>
+<answer>1</answer>
+    </questionBlock>
+
+<questionBlock>
+<question> Which of these breeds is a spaniel? </question>
+<a> King James </a>
+<b> King John </b>
+<c> King Charles </c>
+<d> King George </d>
+<answer>3</answer>
+</questionBlock>
+
+<questionBlock>
+<question> What is the name of the character played by Daisy Ridley in Star Wars: The Rise of Skywalker? </question>
+<a> Doh </a>
+<b> Rey </b>
+<c> Mee </c>
+<d> Farr </d>
+<answer>2</answer>
+</questionBlock>
+
+<questionBlock>
+<question> Which of these titles is a work of art by Tracey Emin? </question>
+<a> Our Settee </a>
+<b> Your Bench </b>
+<c> Her Desk </c>
+<d> My Bed </d>
+<answer>4</answer>
+</questionBlock>
+
+<questionBlock>
+<question> For what reason did Professor Robert Kelly gain online fame in 2017? </question>
+<a> Wrong identity on the news </a>
+<b> Chasing after his dog </b>
+<c> Children's "gatecrashed" interview </c>
+<d> Trying to catch a stick </d>
+<answer>3</answer>
+</questionBlock>
+
+<questionBlock>
+<question> A character named Ralph was chosen to lead a group of boys at the beginning of which book? </question>
+<a> Weak Side </a>
+<b> Lord of the Flies </b>
+<c> Jungle Book </c>
+<d> Brave New World </d>
+<answer>2</answer>
+</questionBlock>
+
+<questionBlock>
+<question> Which mountain is shown in the background in Hokusai's press 'The Great Wave'? </question>
+<a> Mount Emei </a>
+<b> Mount Kailash </b>
+<c> Mount Fuji </c>
+<d> Mount Sinai </d>
+<answer>3</answer>
+</questionBlock>
+
+<questionBlock>
+<question> Which of these countries does not have three horizontal stripes on the national flag? </question>
+<a> Russia </a>
+<b> Romania </b>
+<c> Hungary </c>
+<d> Germany </d>
+<answer>2</answer>
+</questionBlock>
+
+<questionBlock>
+<question> What fruit is used to make "Crème de cassis" liqueur? </question>
+<a> Apples </a>
+<b> Pears </b>
+<c> Blackcurrants </c>
+<d> Gooseberries </d>
+<answer>3</answer>
+</questionBlock>
+
+<questionBlock>
+<question> "Escape or Die Frying" is the slogan for which movie? </question>
+<a> Chicken Run </a>
+<b> Ratatouille </b>
+<c> Free Willy </c>
+<d> Babe </d>
+<answer>1</answer>
+</questionBlock>
+
+<questionBlock>
+<question> Which of these real people did Benedict Cumberbatch not play? </question>
+<a> Dominic Cummings </a>
+<b> Alan Turing </b>
+<c> Tony Blair </c>
+<d> Julian Assange </d>
+<answer>3</answer>
+</questionBlock>
+
+<questionBlock>
+<question> Which country in the Bible is said to be east of paradise? </question>
+<a> Nineveh </a>
+<b> Nod </b>
+<c> Nazareth </c>
+<d> Nimrud </d>
+<answer>2</answer>
+</questionBlock>
+
+    <questionBlock>
+        <question> A concert is almost always followed by ... </question>
+        <a> cis </a>
+        <b> dis </b>
+        <c> fis </c>
+        <d> bis </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which pearl of the Adriatic is not a national park? </question>
+        <a> Brijuni </a>
+        <b> Biševo </b>
+        <c> Kornati </c>
+        <d> Mljet </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> The second part of which film series is known as the Road Warrior? </question>
+        <a> Deadly weapon </a>
+        <b> Mad Max </b>
+        <c> Die hard </c>
+        <d> Terminator </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Askja, Hekla and Katla are the names of Icelandic ... </question>
+        <a> Goddess </a>
+        <b> Cities </b>
+        <c> Volcano </c>
+        <d> Airports </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of the chemical elements is not named after the Nobel laureate? </question>
+        <a> Einstein </a>
+        <b> Fermium </b>
+        <c> Kirij </c>
+        <d> Nobel </d>
+        <answer>4</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question> Which evangelist was a physician by profession and a protector of physicians and surgeons? </question>
+        <a> Matthew </a>
+        <b> Luke </b>
+        <c> Mark </c>
+        <d> John </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which country did Israel, France and the United Kingdom fight during the Suez Crisis? </question>
+        <a> Greek </a>
+        <b> Turkish </b>
+        <c> Algeria </c>
+        <d> Egypt </d>
+        <answer>4</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question> Which river is formed by the confluence of the Maranon and Ucayalli rivers? </question>
+        <a> Nile </a>
+        <b> Euphrates </b>
+        <c> Rhine </c>
+        <d> Amazon </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which airline plane crashed over Ukraine in 2014 under suspicious circumstances? </question>
+        <a> Turkish Airlines </a>
+        <b> China Airlines </b>
+        <c> Malaysia Airlines </c>
+        <d> Singapore Airlines </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Welshman Ian Rush is the best scorer in the history of which club with 346 goals? </question>
+        <a> Arsenal </a>
+        <b> Manchester United </b>
+        <c> Liverpool </c>
+        <d> Leicester </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which Russian city did the Germans keep surrounded for 872 days during World War II? </question>
+        <a> Smolensk </a>
+        <b> Moscow </b>
+        <c> Stalingrad </c>
+        <d> Leningrad </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> How many stars were on the flag of the American Confederation? </question>
+        <a> 20 </a>
+        <b> 25 </b>
+        <c> 13 </c>
+        <d> 7 </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> In what year did Ivica Kostelic win his first Olympic medal at the Winter Olympics? </question>
+        <a> 2001. </a>
+        <b> 2004 </b>
+        <c> 2006. </c>
+        <d> 2009. </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> What sport do they play in the Eastern European VTB League? </question>
+        <a> Soccer </a>
+        <b> Volleyball </b>
+        <c> Basketball </c>
+        <d> Handball </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> In what year did a series of revolutions called the Spring of Nations take place in Europe? </question>
+        <a> 1700. </a>
+        <b> 1848. </b>
+        <c> 1492. </c>
+        <d> 1774. </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Who scored an own goal in the Brazil-Croatia match, the first match of the 2014 World Cup? </question>
+        <a> Thiago Silva </a>
+        <b> David Louise </b>
+        <c> Marcelo </c>
+        <d> Paulinho </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which Scandinavian country won the most medals at the Winter Olympics? </question>
+        <a> Sweden </a>
+        <b> Finland </b>
+        <c> Norway </c>
+        <d> Denmark </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Who was Jacqueline Kennedy's second husband? </question>
+        <a> Aristotle Onassis </a>
+        <b> Adnan Khashoggi </b>
+        <c> Rupert Murdoch </c>
+        <d> Ronald Reagan </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Emmentaler is a cheese from which country? </question>
+        <a> France </a>
+        <b> Italy </b>
+        <c> The Netherlands </c>
+        <d> Switzerland </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> In which country did the artistic direction of constructivism develop before the First World War? </question>
+        <a> Germany </a>
+        <b> Italy </b>
+        <c> Russia </c>
+        <d> Norway </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> In which African country is the Kilimanjaro mountain range located? </question>
+        <a> Angola </a>
+        <b> Tanzania </b>
+        <c> Nigeria </c>
+        <d> Zambia </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which singer says "All the single ladies" at the beginning of the big hit? </question>
+        <a> Rihanna </a>
+        <b> Shakira </b>
+        <c> Cardi B </c>
+        <d> Beyonce </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which longtime San Antonio Spurs coach led the Texans to 5 NBA titles? </question>
+        <a> Larry Brown </a>
+        <b> Gregg Popovich </b>
+        <c> Cliff Hagan </c>
+        <d> Bob Weiss </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Behind which planet is the Kuiper belt, mostly made up of smaller ice bodies? </question>
+        <a> Mars </a>
+        <b> Jupiter </b>
+        <c> Pluto </c>
+        <d> Neptune </d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which of these statements best describes the 2019 film "Ad Astra"? </question>
+        <a> Will Smith sails around the world </a>
+        <b> Keanu Reeves crosses the Sahara </b>
+        <c> Brad Pitt goes into space </c>
+        <d> Matt Damon buys the zoo </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> How many players does the Olympic curling team have? </question>
+        <a> 2 </a>
+        <b> 4 </b>
+        <c> 5 </c>
+        <d> 7 </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> What sports game did James Naismith invent in 1891? </question>
+        <a> Rugby </a>
+        <b> Basketball </b>
+        <c> Football </c>
+        <d> Handball </d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Which country won the 1982 World Cup in Spain, beating West Germany 3-1? </question>
+        <a> Italy </a>
+        <b> England </b>
+        <c> Uruguay </c>
+        <d> Brazil </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> In what year was the film classic "The Godfather" first shown on the movie screen? </question>
+        <a> 1945. </a>
+        <b> 1966. </b>
+        <c> 1972. </c>
+        <d> 1984. </d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Who led West Ham United between 2008 and 2010? </question>
+        <a> Gianfranco Zola </a>
+        <b> Slaven Bilic </b>
+        <c> David Moyes </c>
+        <d> Harry Redknapp </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> The world's first university was founded in Bologna, in what year? </question>
+        <a> 1088. </a>
+        <b> 1204. </b>
+        <c> 1492. </c>
+        <d> 1556. </d>
+        <answer>1</answer>
+    </questionBlock>
+
+
+<questionBlock>
+<question> In what year did Marin Čilić win the US open? </question>
+<a> 2011. </a>
+<b> 2012 </b>
+<c> 2014. </c>
+<d> 2017. </d>
+<answer>3</answer>
+</questionBlock>
+
+<questionBlock>
+<question> Aurora Borealis is known as? </question>
+<a> Fairy dust </a>
+<b> Polar light </b>
+<c> Book of Ages </c>
+<d> The main character in Game of Thrones </d>
+<answer>2</answer>
+</questionBlock>
+
+<questionBlock>
+<question> What is the name of the largest mountain in Europe? </question>
+<a> Elbrus </a>
+<b> Mont Blanc </b>
+<c> Matterhorn </c>
+<d> Dolomites </d>
+<answer>1</answer>
+</questionBlock>
+
+<questionBlock>
+<question> How many languages​are spoken in Papua New Guinea? </question>
+<a> 2 </a>
+<b> 3 </b>
+<c> 4 </c>
+<d> 800 </d>
+<answer>4</answer>
+</questionBlock>
+
+<questionBlock>
+<question> When was the first international telephone call made between New York-London? </question>
+<a> 1889. </a>
+<b> 1901. </b>
+<c> 1927. </c>
+<d> 1941. </d>
+<answer>3</answer>
+</questionBlock>
+
+<questionBlock>
+<question> Who was crowned Queen of England in 1559? </question>
+<a> Elizabeth I </a>
+<b> Maria I </b>
+<c> Matilda </c>
+<d> Ana-Marie II </d>
+<answer>1</answer>
+</questionBlock>
+
+<questionBlock>
+<question> What was the name of the first nightclub opened in Los Angeles? </question>
+<a> Oak </a>
+<b> Argyle </b>
+<c> Whiskey a Go Go </c>
+<d> Warwick </d>
+<answer>3</answer>
+</questionBlock>
+
+<questionBlock>
+<question> In 1969, the first album by the English group Led Zeppelin was released under the title? </question>
+<a> House of the Holy </a>
+<b> Physical Graffit </b>
+<c> Coda </c>
+<d> Led Zeppelin </d>
+<answer>4</answer>
+</questionBlock>
+
+<questionBlock>
+<question> Who introduced the word "Robot" into today's life? </question>
+<a> Jaroslav Hasek </a>
+<b> Franz Kafka </b>
+<c> Karel Čapek </c>
+<d> Ivo Andric </d>
+<answer>3</answer>
+</questionBlock>
+
+<questionBlock>
+<question> Julius Caesar utters the famous sentence "The dice are thrown" and crosses the Rubicon River how many years before Christ? </question>
+<a> 150 </a>
+<b> 80 </b>
+<c> 49 </c>
+<d> 1000 </d>
+<answer>3</answer>
+</questionBlock>
+
+<questionBlock>
+<question> In what year was the League of Nations founded? </question>
+<a> 1901. </a>
+<b> 1561. </b>
+<c> 845. </c>
+<d> 1920. </d>
+<answer>4</answer>
+</questionBlock>
+
+<questionBlock>
+<question> In 1864, Grigory Rasputin was born, a Russian what? </question>
+<a> Priest </a>
+<b> Prince </b>
+<c> General </c>
+<d> Writer </d>
+<answer>1</answer>
+</questionBlock>
+
+<questionBlock>
+<question> British rock musician David Bowie passed away in what year? </question>
+<a> 1920. </a>
+<b> 1990. </b>
+<c> 2005. </c>
+<d> 2016. </d>
+<answer>4</answer>
+</questionBlock>
+
+<questionBlock>
+<question> Where was the 2009 World Handball Championship held? </question>
+<a> Croatia </a>
+<b> Germany </b>
+<c> Japan </c>
+<d> Tunisia </d>
+<answer>1</answer>
+</questionBlock>
+
+<questionBlock>
+<question> When did the division of the Roman Empire take place? </question>
+<a>151. years </a>
+   <b>224. years </b>
+    <c>395. years </c>
+<d> 456. years </d>
+<answer>3</answer>
+    </questionBlock>
+
+<questionBlock>
+<question> Who enters Havana in 1959 and becomes the new Cuban leader? </question>
+<a> Raul Castro </a>
+<b> Che Guevara </b>
+<c> Miguell Diaz </c>
+<d> Fidel Castro </d>
+<answer>4</answer>
+</questionBlock>
+
+<questionBlock>
+<question> Which company made first commercial flight around the world? </question>
+<a> Pan American Airlines </a>
+<b> Qatar Airways </b>
+<c> Lufthansa </c>
+<d> American Airlines </d>
+<answer>1</answer>
+</questionBlock>
+
+<questionBlock>
+<question> Šuker is the top scorer of the Croatian national football team. Who is second? </question>
+<a> Eduardo </a>
+<b> Mandžukić </b>
+<c> Olić </c>
+<d> Perišić </d>
+<answer>2</answer>
+</questionBlock>
+
+    <questionBlock>
+        <question>What was the previous name for New York?</question>
+        <a>New Amsterdam</a>
+        <b>Castle</b>
+        <c>New Castle</c>
+        <d>New Brussels</d>
+        <answer>1</answer>
+    </questionBlock>
+
+</normalQuestionsEng>

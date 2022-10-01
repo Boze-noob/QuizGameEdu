@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<easyQuestions>
+
+    <questionBlock>
+        <question>Koji golfer je poznat pod nadimkom "White Shark"?</question>
+        <a>Greg Norman</a>
+        <b>Eldrick Woods</b>
+        <c>I.Ballesteros</c>
+        <d>Jack Nicklaus</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Gradu u kojem se nalazi zračna luka "Heathrow" je?</question>
+        <a>London</a>
+        <b>Glasgow</b>
+        <c>Dublin</c>
+        <d>Milan</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je napisao "Les Fleurs du Mal"?</question>
+        <a>Baudelaire</a>
+        <b>Verlaine</b>
+        <c>Flaubert</c>
+        <d>Proust</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što znači kratica "WWW"?</question>
+        <a>World Wide Web</a>
+        <b>Web Week Web</b>
+        <c>World Wrestling Web</c>
+        <d>We Were Web</d>
+        <answer>1</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question>Tko je predstavio politički pokret "Perestroika"?</question>
+        <a>Marx</a>
+        <b>Putin</b>
+        <c>Stalin</c>
+        <d>Gorbachev</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je glavni grad Rusije?</question>
+        <a>Saint Petersburg</a>
+        <b>Kijev</b>
+        <c>Moskva</c>
+        <d>Orsk</d>
+        <answer>3</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question>Koji je kemijski simbol za zlato?</question>
+        <a>Gd</a>
+        <b>Or</b>
+        <c>Gi</c>
+        <d>Au</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Grad u kojem se nalazi stadion "Old Trafford" je?</question>
+        <a>Liverpool</a>
+        <b>Manchester</b>
+        <c>London</c>
+        <d>Madrid</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U rimskim brojevima, slovo C znači ?</question>
+        <a>75</a>
+        <b>100</b>
+        <c>5</c>
+        <d>1000</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je bio Bog Sunca u drevnom Egiptu?</question>
+        <a>Anubis</a>
+        <b>Ra</b>
+        <c>Horus</c>
+        <d>Anulu</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja novčana valuta se koristi u Grčkoj?</question>
+        <a>Euro</a>
+        <b>Drahma</b>
+        <c>Lira</c>
+        <d>Grčki dolar</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je glavni grad Bugarske?</question>
+        <a>Bukurešt</a>
+        <b>Budimpešta</b>
+        <c>Sofija</c>
+        <d>Kijev</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je glavni grad Rumunjske?</question>
+        <a>Bukurešt</a>
+        <b>Budimpešta</b>
+        <c>Sofija</c>
+        <d>Kijev</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U drevnom Rimu, Bog rata je bio?</question>
+        <a>Ares</a>
+        <b>Merkur</b>
+        <c>Dioniz</c>
+        <d>Mars</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je Kupidov ekvivalent u grčkoj mitologiji?</question>
+        <a>Apolon</a>
+        <b>Eros</b>
+        <c>Saturn</c>
+        <d>Jupiter</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Dioniz je grčki Bog čega?</question>
+        <a>Vina</a>
+        <b>Mudrosti</b>
+        <c>Rata</c>
+        <d>Sunca</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja novčana valuta se koristi u Sjevernoj Irskoj?</question>
+        <a>Funta</a>
+        <b>Euro</b>
+        <c>Dolar</c>
+        <d>Lira</d>
+        <answer>1</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question>Tko je bio redatelj filma "E.T."?</question>
+        <a>Robert Parker</a>
+        <b>Michael P. Jackson</b>
+        <c>Ridley Scott</c>
+        <d>Steven Spielberg</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Bitka na Neretvi poznata je i kao?</question>
+        <a>Bitka za ranjenike</a>
+        <b>Bitka za Mostar</b>
+        <c>Bitka za spas</c>
+        <d>Bitka za most </d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Albino gorila obično ima krzno koje boje?</question>
+        <a>Smeđe</a>
+        <b>Crne</b>
+        <c>Bijele</c>
+        <d>Zlatne</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Grad u kojem se nalazi sjedište UN-a?</question>
+        <a>New York</a>
+        <b>Haag</b>
+        <c>Ženeva</c>
+        <d>Pariz</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je S.I. jedinica za temperaturu?</question>
+        <a>Kelvin</a>
+        <b>Celzijus</b>
+        <c>Centigrade</c>
+        <d>Fahrenheit</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question> Koji Disney lik slavno ostavlja staklenu cipelicu na kraljevskom balu?</question>
+        <a>Pocahontas</a>
+        <b>Uspavana ljepotica</b>
+        <c>Pepeljuga</c>
+        <d>Elsa</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji od ovih brendova je poglavito povezan sa proizvodnjom brava za domaćinstvo?</question>
+        <a>Phillips</a>
+        <b>Flymo</b>
+        <c>Chubb</c>
+        <d>Ronseal</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Srp i čekić je jedan od najpoznatijih simbola koje političke ideologije?</question>
+        <a>Republikanizma</a>
+        <b>Komunizma</b>
+        <c>Konzervatizma</c>
+        <d>Liberalizma</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kaže se da netko tko izražava ljutnju "ispušta svoju ..." što?</question>
+        <a>Slezenu</a>
+        <b>Jetru</b>
+        <c>Crijeva</c>
+        <d>Gušteraču</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje su dječije igračke prodavane pod sloganom "prerušeni roboti"?</question>
+        <a>Bratz lutke</a>
+        <b>HotWheels</b>
+        <c>Hatchimals</c>
+        <d>Transformeri</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Ime koje od ovih vrsta kobasica potječe od naziva njemačkog grada?</question>
+        <a>Salami</a>
+        <b>Cumberland</b>
+        <c>Chorizo</c>
+        <d>Frankfurter</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U romanu "Gospodar prstenova", Frodo, Sam i Bilbo potječu iz kojeg djela Međuzemlja?</question>
+        <a>The Green</a>
+        <b>The Borough</b>
+        <c>The Shire</c>
+        <d>The City</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>1987. Whitney Houston na vrhu je britanske ljestvice singlova s "I Wanna ...", što? "With Somebody"?</question>
+        <a>Sing</a>
+        <b>Dance</b>
+        <c>Spend time</c>
+        <d>Have a cuddle</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Nešto što odaje radnju ili ishod TV emisije naziva se kako?</question>
+        <a>Bokobran</a>
+        <b>Cjepidlaka</b>
+        <c>Šal</c>
+        <d>Spojler</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje je boje glava odraslog mužjaka patke?</question>
+        <a>Smeđe</a>
+        <b>Crvene</b>
+        <c>Crne</c>
+        <d>Zelene</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je u filmskoj franšizi "Transformeri" vođa Decepticonsa?</question>
+        <a>Megaphone</a>
+        <b>Megabyte</b>
+        <c>Megatron</c>
+        <d>Megabus</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kojoj vrsti riječi pripada riječ oblačan?</question>
+        <a>Pridjevima</a>
+        <b>Prijedlozima</b>
+        <c>Prilozima</c>
+        <d>Imenicama</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Novac na bankomatu nećete moći podignuti ako ste zaboravili...</question>
+        <a>pen</a>
+        <b>puk</b>
+        <c>pin</c>
+        <d>tan</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je Imoćanin rođen u Splitu proslavio Pulu?</question>
+        <a>Marijan Beneš</a>
+        <b>Mate Parlov</b>
+        <c>Antun Josipović</c>
+        <d>Željko Mavrović</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Magnet bi najvjerojatnije privukao što od sljedećeg?</question>
+        <a>Metal</a>
+        <b>Plastiku</b>
+        <c>Drvo</c>
+        <d>Gumu</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U kojoj zemlji je nastao škotski viski?</question>
+        <a>Irskoj</a>
+        <b>SAD-u</b>
+        <c>Škotskoj</c>
+        <d>Norveškoj</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je površinom najveća država u kojoj je ćirilica službeno pismo?</question>
+        <a>Srbija</a>
+        <b>Rusija</b>
+        <c>Ukrajina</c>
+        <d>Rumunjska</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Ljetno računanje vremena u Europskoj Uniji počinje posljednje nedjelje kojeg mjeseca?</question>
+        <a>Veljače</a>
+        <b>Ožujka</b>
+        <c>Travnja</c>
+        <d>Svibnja</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je prvi nepčanik ili palatal u hrvatskoj abecedi?</question>
+        <a>C</a>
+        <b>Č</b>
+        <c>Ć</c>
+        <d>Đ</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je najveći grad smješten na rijeci Tiber?</question>
+        <a>Viterbo</a>
+        <b>Rieti</b>
+        <c>Rim</c>
+        <d>Ostia</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Na standardnoj tipkovnici, uskličnik se nalazi na kojem broju?</question>
+        <a>1</a>
+        <b>2</b>
+        <c>3</c>
+        <d>4</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je Brazilac fantastičnim udarcem s 35m 1997. godine, iznenadio Bartheza i francuski živi zid?</question>
+        <a>Roberto Carlos</a>
+        <b>Ronaldo</b>
+        <c>Romario</c>
+        <d>Flavio Conceicao</d>
+        <answer>1</answer>
+    </questionBlock>
+
+<questionBlock>
+    <question>Koliko sekundi ima minuta?</question>
+    <a>300</a>
+    <b>30</b>
+    <c>60</c>
+    <d>1</d>
+    <answer>3</answer>
+</questionBlock>
+
+    <questionBlock>
+        <question>Trigonometrija je grana kojeg predmeta?</question>
+        <a>Ekonomije</a>
+        <b>Matematike</b>
+        <c>Povijesti</c>
+        <d>Biologije</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koliko je ukupno igrača obiju momčadi u bazenu pri odigravanju vaterpolske utakmice?</question>
+        <a>7</a>
+        <b>10</b>
+        <c>14</c>
+        <d>20</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U kojem je gradu izveden teroristički napad na redakciju satiričkog časopisa "Charlie Hebdo"?</question>
+        <a>Parizu</a>
+        <b>Madridu</b>
+        <c>Londonu</c>
+        <d>Berlinu</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Vitezovi templari nosili su bijele odore s križem koje boje?</question>
+        <a>Crne</a>
+        <b>Zelene</b>
+        <c>Žute</c>
+        <d>Crvene</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Ako u trokutu jedan kut zatvara 40, drugi 50 stupnjeva. Koliko stupnjeva zatvara treći kut?</question>
+        <a>70</a>
+        <b>90</b>
+        <c>100</c>
+        <d>120</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>S kojim svemirskim programom ime djeli Rockyev protivnik kojeg je glumio Carl Weathers?</question>
+        <a>Turbom</a>
+        <b>Apollom</b>
+        <c>Flyom</c>
+        <d>Rocketom</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je glumac zamijenio Charlie Sheena u seriji "2 i pol muškarca"?</question>
+        <a>Ashton Kutcher</a>
+        <b>Angus T. Jones</b>
+        <c>Chris Evans</c>
+        <d>Tom Cruise</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je od 12 izraelskih sudaca srušio Filistejski hram i s Filistejcima poginuo pod ruševinama?</question>
+        <a>Ehud</a>
+        <b>Samson</b>
+        <c>Barak</c>
+        <d>Gideon</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Prema zastavi koje je države napravljen simbol međunarodnog Crvenog križa?</question>
+        <a>Švicarske</a>
+        <b>Finske</b>
+        <c>Islandske</c>
+        <d>Norveške</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Netko tko se pridržava stroge veganske prehrane neće učiniti što?</question>
+        <a>Pojesti pileće krilce</a>
+        <b>Pojesti bananu</b>
+        <c>Pojesti grah</c>
+        <d>Kuglati sa Guy Fieriem</d>
+        <answer>1</answer>
+    </questionBlock>
+
+<questionBlock>
+    <question>Koji je od ovih likova tipično prikazan s velikim slovom "S" na prsima?</question>
+    <a>Snoopy</a>
+    <b>Superman</b>
+    <c>Shrek</c>
+    <d>Scrooge McDuck</d>
+    <answer>2</answer>
+</questionBlock>
+
+    <questionBlock>
+        <question>Uvriježeno je mišljenje da su drevni Egipćani gradili piramide da bi se koristile kao što?</question>
+        <a>Knižnice</a>
+        <b>Grobnice</b>
+        <c>Škole</c>
+        <d>Koncertne dvorane</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što je od sljedećeg vrsta orašastih plodova, a ne članica Ujedinjenih naroda?</question>
+        <a>Malezija</a>
+        <b>Makadamija</b>
+        <c>Mauritanija</c>
+        <d>Mongolija</d>
+        <answer>2</answer>
+    </questionBlock>
+
+
+    <questionBlock>
+        <question>Koje od ovih vozila obično nema upravljač?</question>
+        <a>Motocikl</a>
+        <b>Tricikl</b>
+        <c>Bicikl</c>
+        <d>Monocikl</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji rezultat dobijemo kada oduzmemo 18 od 37? </question>
+        <a>21</a>
+        <b>19</b>
+        <c>17</c>
+        <d>15</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Dovršite naslov filma o Jamesu Bondu. "Čovjek sa zlatnim..."</question>
+        <a>Zubom</a>
+        <b>Pištoljem</b>
+        <c>Bodežom</c>
+        <d>Orlom</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koliko igrača ima u vaterpolo ekipi?</question>
+        <a>2</a>
+        <b>7</b>
+        <c>9</c>
+        <d>11</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U kojoj zemlji se nalazi Taj Mahal?</question>
+        <a>Indiji</a>
+        <b>Egiptu</b>
+        <c>Kini</c>
+        <d>Japanu</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Drugi svjetski rat je završio koje godine?</question>
+        <a>1918.</a>
+        <b>1939.</b>
+        <c>1945.</c>
+        <d>1991.</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Prvi svjetski rat je završio koje godine?</question>
+        <a>1918.</a>
+        <b>1939.</b>
+        <c>1945.</c>
+        <d>1991.</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Serija Prijatelji se odvija u kojem gradu?</question>
+        <a>Los Angeles-u</a>
+        <b>New York-u</b>
+        <c>Miami-u</c>
+        <d>Washington-u</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kako se zove najveća planina na području Hercegovine sa nadmorskom visionm od 2228 metara?</question>
+        <a>Velež</a>
+        <b>Vran</b>
+        <c>Čabulja</c>
+        <d>Čvrsnica</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tvrđava herceg Stjepana se nalazi u blizini kojeg grada? </question>
+        <a>Širokog Brijega</a>
+        <b>Mostara</b>
+        <c>Ljubuškog</c>
+        <d>Čitluka</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Katoličko hodočasničko mjesto Kedžara se nalazi na kojoj planini?</question>
+        <a>Čvrsnica</a>
+        <b>Vran</b>
+        <c>Vlašić</c>
+        <d>Bjelašnica</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Hercegovac A.B.Šimić bio je poznat po svojim?</question>
+        <a>Pjesmama</a>
+        <b>Crtežima</b>
+        <c>Sklupturama</c>
+        <d>Igrokazima</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Prva strofa koje pjesme glasi "Čovječe pazi da ne ideš malen ispod zvijezda!"</question>
+        <a>Smrt i ja</a>
+        <b>Pjesnici</b>
+        <c>Opomena</c>
+        <d>Moja preobraženja</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Za koji NBA klub trenutno igra mostarac Bojan Bogdanović?</question>
+        <a>Utah Jazz</a>
+        <b>Chicago Bulls</b>
+        <c>Los Angeles Clippers</c>
+        <d>Atlanta Hawks</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Ivo Andrić je nobelovu nagradu dobio za koje djelo?</question>
+        <a>Na Drini ćuprija</a>
+        <b>Travnička hronika</b>
+        <c>Prokleta avlija</c>
+        <d>Put Alije Đerzeleza</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U SAD-u, ako nije ljetno računanje vremena, onda je što?</question>
+        <a>Posuđeno vrijeme</a>
+        <b>Prekovremeno</b>
+        <c>Standardno vrijeme</c>
+        <d>Vrijeme za zabavu</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji od sljedećih planeta Sunčeva sustava nema prsten?</question>
+        <a>Saturn</a>
+        <b>Jupiter</b>
+        <c>Neptun</c>
+        <d>Venera</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Hercegovački franjevac koji je početkom 20. stoljeća spasio 15 tisuća hercegovačke djece od gladi?</question>
+        <a>Fra. D.Buntić</a>
+        <b>Fra. A.Marić</b>
+        <c>Fra. S.Barbarić</c>
+        <d>Fra. J.Šilović</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Hercegovačko tradicionalno jelo?</question>
+        <a>Lazanje</a>
+        <b>Mlinci</b>
+        <c>Pura</c>
+        <d>Brudet</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je bio dugogodišnji Zagrebački gradonačelnik rodom iz Gruda?</question>
+        <a>Milan Bandić</a>
+        <b>Peđa Grbin</b>
+        <c>Ranko Ostojić</c>
+        <d>Mirko Herak</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je bio ratni ministar i najbliži suradnik Franje Tuđmana?</question>
+        <a>Mladen Markač</a>
+        <b>Ante Gotovina</b>
+        <c>Ljubo Rojs</c>
+        <d>Gojko Šušak</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje je jednostavno hercegovačko jelo pripremljeno od brašna, soli, vode, a servira se uz pršut, sir...?</question>
+        <a>Peksimeti</a>
+        <b>Pogačice</b>
+        <c>Uštipci</c>
+        <d>Mlinci</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U kojem BiH gradu je otkrivena Piramida sunca 2008. godine?</question>
+        <a>Široki Brijeg</a>
+        <b>Konjic</b>
+        <c>Maglaj</c>
+        <d>Visoko</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Luftwaffe je zrakoplovstvo koje zemlje?</question>
+        <a>Njemačke</a>
+        <b>Švicarske</b>
+        <c>Austrije</c>
+        <d>Danske</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Svjetsko prvenstvo u rukometu otvoreno je koje godine u Hrvatskoj?</question>
+        <a>2000.</a>
+        <b>2001.</b>
+        <c>2009.</c>
+        <d>2016.</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Pomorac i istraživač James Cook rođen je u kojoj zemlji?</question>
+        <a>Engleskoj</a>
+        <b>Danskoj</b>
+        <c>Italij</c>
+        <d>Njemačkoj</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Riječima "ta plava skamenjena vječnost" A.B.Šimić završio je "Pjesmu jednom..." što?</question>
+        <a>Brodu</a>
+        <b>Moru</b>
+        <c>Vakufu</c>
+        <d>Brijegu</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kaže se da osoba sa dobro razvijenim trbušnim mišićima ima što?</question>
+        <a>One-pack</a>
+        <b>Six-pack</b>
+        <c>12-pack</c>
+        <d>Family-pack</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje od ovih imena nije u naslovu Shakespeareove drame?</question>
+        <a>Hamlet</a>
+        <b>Romeo</b>
+        <c>Macbeth</c>
+        <d>Darren</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je tradicionalno "pravi" način obraćanja sudcu u Sjedinjenim Državama?</question>
+        <a>Your holiness</a>
+        <b>Your honor</b>
+        <c>Your eminence</c>
+        <d>You da man!</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji od ovih parova aplikacija nudi približno istu vrstu usluge?</question>
+        <a>Snapchat i Grubhub</a>
+        <b>Whatsapp i SHAREit</b>
+        <c>TikTok i Spotify</c>
+        <d>Lyft i Uber</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U restoranu šta radi neko tko "podmiri račun"?</question>
+        <a>Ljubi ga</a>
+        <b>Pokida ga</b>
+        <c>Nada se da će imati sreće</c>
+        <d>Plaća ga</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Prema staroj izreci, "ljubav prema" šta je "korijen svega zla"?</question>
+        <a>Hrana</a>
+        <b>Novac</b>
+        <c>Odjeća</c>
+        <d>Reality televizija</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kaže se da je nešto na očiglednoj lokaciji "točno ispred vašeg" čega?</question>
+        <a>Dušeka</a>
+        <b>Nosa</b>
+        <c>Prozora</c>
+        <d>Bicikla</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kada se drvo posječe, dio koji ostaje u zemlji naziva se kako?</question>
+        <a>Rump</a>
+        <b>Hump</b>
+        <c>Ostaci</c>
+        <d>Panj</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Po definiciji, 10-brzinski bicikl ima 10 čega?</question>
+        <a>Točkova</a>
+        <b>Žbica</b>
+        <c>Zupčanika</c>
+        <d>Života</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Uspavanka je pjesma koju se bebama pjeva kako bi im pomogla da se?</question>
+        <a>Probude</a>
+        <b>Zaspu</b>
+        <c>Jedu</c>
+        <d>Razmišljaju</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U povjesnim knjigama, vladari po imenu Aleksandar i Katarina dijele koji laskavi naslov?</question>
+        <a>Surovi</a>
+        <b>Veliki</b>
+        <c>Neukrotivi</c>
+        <d>Eko-svjesni</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Za osobu koja se priprema za naporan rad kaže se da "zavrće svoje" šta?</question>
+        <a>Rukave</a>
+        <b>Zavjese</b>
+        <c>Peškire</c>
+        <d>Mötley Crüe plakate</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U popularnom stilu šale, ono što tradicionalno dolazi prije "Tko je tamo?" je?</question>
+        <a>Rat-a-tat-tat</a>
+        <b>Cooee</b>
+        <c>Knock-knock</c>
+        <d>Ding dong</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je od navedenih stvari muzički instrumenat?</question>
+        <a>Mandrake</a>
+        <b>Mandalay</b>
+        <c>Mandolina</c>
+        <d>Mandril</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što znači kratica BFF?</question>
+        <a>Buff Fit Fella</a>
+        <b>Bye for Five</b>
+        <c>Boy Friend Furious</c>
+        <d>Best Friends Forever</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji od ovih sportova ima sortu koja se naziva "white water"?</question>
+        <a>Brzo klizanje</a>
+        <b>Dresura</b>
+        <c>Gimnastika</c>
+        <d>Rafting</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Po kojem je nadimku poznata filmska zvijezda i hrvač Dwayne Johnson?</question>
+        <a>Weak</a>
+        <b>Boulder</b>
+        <c>Cobblestone</c>
+        <d>Rock</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Klokani su porijeklom iz koje zemlje?</question>
+        <a>Perua</a>
+        <b>Kenije</b>
+        <c>Australije</c>
+        <d>Irske</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kako se zvao bend kojeg je vodio Jim Morrison?</question>
+        <a>The Doors</a>
+        <b>The Windows</b>
+        <c>The Floors</c>
+        <d>The Ceilings</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Šta je uz toplo mlijeko, sastojak tzv. mjesečeva mlijeka, napitka za dobar san?</question>
+        <a>Med i cimet</a>
+        <b>Šlag i kakao</b>
+        <c>Zeleni čaj i papar</c>
+        <d>Jabuka i limun</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je od ovih samostalnih tipki smještena najviše lijevo na standardnoj računalnoj tipkovnici?</question>
+        <a>A</a>
+        <b>Q</b>
+        <c>Z</c>
+        <d>1</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najmanja država na svijetu?</question>
+        <a>Francuska</a>
+        <b>Španjolska</b>
+        <c>Italija</c>
+        <d>Vatikan</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koju je životinju Kleopatra iskoristila da se ubije?</question>
+        <a>Zmiju</a>
+        <b>Psa</b>
+        <c>Slona</c>
+        <d>Pauka</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kip slobode je bio poklon koje zemlje?</question>
+        <a>Francuske</a>
+        <b>Španjolske</b>
+        <c>Engleske</c>
+        <d>Italije</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Hladni rat bio je između Sjedinjenih Država i koje druge svjetske sile?</question>
+        <a>Francuske</a>
+        <b>Sovjetskog Saveza</b>
+        <c>Njemačke</c>
+        <d>Kine</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Najbolji nogometaš 2018 godine?</question>
+        <a>Modrić</a>
+        <b>Messi</b>
+        <c>Salah</c>
+        <d>C. Ronaldo</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje je godine Hrvatska ispala protiv Turske na Europskom prvenstvu?</question>
+        <a>2000.</a>
+        <b>1996.</b>
+        <c>2012.</c>
+        <d>2008.</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Formula za površinu kvadrata je?</question>
+        <a>a+a</a>
+        <b>a+a+a+a</b>
+        <c>a×a</c>
+        <d>4a</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Iza Game dolazi?</question>
+        <a>Alfa</a>
+        <b>Beta</b>
+        <c>Delta</c>
+        <d>Melta</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje godine je Hrvatska osvojila svoju prvu brončanu medalju?</question>
+        <a>1996.</a>
+        <b>1998.</b>
+        <c>2000.</c>
+        <d>2002.</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Hrvatski jezik spada u koju skupinu jezika?</question>
+        <a>Romanski</a>
+        <b>Germanski</b>
+        <c>Slavenski</c>
+        <d>Ugro-finski</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje godine je Hrvatska ušla u EU?</question>
+        <a>2013.</a>
+        <b>2010.</b>
+        <c>2012.</c>
+        <d>2011.</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Glavni grad BiH je?</question>
+        <a>Travnik</a>
+        <b>Mostar</b>
+        <c>Bihać</c>
+        <d>Sarajevo</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja država se smatrala najvećom kolonijalnom silom?</question>
+        <a>SAD</a>
+        <b>Velika Britanija</b>
+        <c>Portugal</c>
+        <d>Španjolska</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Glavni grad Hrvatkse je?</question>
+        <a>Zagreb</a>
+        <b>Split</b>
+        <c>Rijeka</c>
+        <d>Osijek</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Europsko prvenstvo 2016. osvoji je?</question>
+        <a>Wales</a>
+        <b>Portugal</b>
+        <c>Belgija</c>
+        <d>Italija</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Prvi Hrvatski kralj Tomislav je okrunjen u?</question>
+        <a>Livnu</a>
+        <b>Duvnu</b>
+        <c>Mostaru</c>
+        <d>Ljubuškom</d>
+        <answer>2</answer>
+    </questionBlock>
+
+</easyQuestions>
