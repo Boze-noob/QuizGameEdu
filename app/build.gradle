@@ -4,15 +4,16 @@ plugins {
 }
 
 android {
-    compileSdkVersion 34
-    buildToolsVersion "30.0.2"
+    
+    namespace "com.applid.milijunas_2021"
 
     defaultConfig {
+        compileSdk 34
         applicationId "com.applid.milijunas_2021"
-        minSdkVersion 16
+        minSdkVersion 19
         targetSdkVersion 34
-        versionCode 12
-        versionName "1.11"
+        versionCode 13
+        versionName "1.12"
         multiDexEnabled true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -36,18 +37,19 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
     implementation 'junit:junit:4.13.1'
     implementation 'androidx.multidex:multidex:2.0.1'
-    implementation 'com.google.firebase:firebase-messaging:22.0.0'
-    implementation 'com.google.firebase:firebase-database:20.0.0'
-    implementation 'com.google.firebase:firebase-firestore:23.0.0'
+    implementation 'com.google.firebase:firebase-messaging:23.4.0'
+    implementation 'com.google.firebase:firebase-database:20.3.0'
+    implementation 'com.google.firebase:firebase-firestore:24.10.0'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     implementation 'androidx.work:work-runtime-ktx:2.9.0'
 
-    implementation 'com.google.android.gms:play-services-ads:20.1.0'
-    implementation 'com.google.ads.mediation:applovin:10.1.2.0'
+    implementation 'com.google.android.gms:play-services-ads:22.6.0'
+    implementation 'com.google.android.gms:play-services-ads-lite:22.6.0'
+    implementation 'com.google.ads.mediation:applovin:12.1.0.0'
     implementation 'androidx.annotation:annotation:1.2.0'
-    implementation 'com.google.ads.mediation:adcolony:4.5.0.0'
+    implementation 'com.google.ads.mediation:adcolony:4.8.0.2'
 
     implementation platform('com.google.firebase:firebase-bom:28.0.1')
-    implementation 'com.google.firebase:firebase-analytics:19.0.0'
+    implementation 'com.google.firebase:firebase-analytics:21.5.0'
 }
