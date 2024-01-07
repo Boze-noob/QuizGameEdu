@@ -1005,4 +1005,211 @@
         <answer>3</answer>
     </questionBlock>
 
+    <questionBlock>
+        <question>Koje godine je potpisan Deklaracija o neovisnosti Sjedinjenih Američkih Država?</question>
+        <a>1773.</a>
+        <b>1776.</b>
+        <c>1782.</c>
+        <d>1790.</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što predstavlja Turingov test u području umjetne inteligencije?</question>
+        <a>Mjerenje procesorske snage</a>
+        <b>Provjeru sposobnosti računalnog razmišljanja</b>
+        <c>Identifikaciju vrste virusa</c>
+        <d>Testiranje grafičke izvedbe</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najveća pustinja u Australiji?</question>
+        <a>Simpsonova pustinja</a>
+        <b>Great Victoria Desert</b>
+        <c>Tanami Desert</c>
+        <d>Nullarbor Plain</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što znači latinska fraza "Carpe Diem"?</question>
+        <a>Uhvati dan</a>
+        <b>Ljubi dan</b>
+        <c>Proučavaj dan</c>
+        <d>Pobjegni od dana</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najmanja zemlja u svijetu po broju stanovnika?</question>
+        <a>Monaco</a>
+        <b>San Marino</b>
+        <c>Andorra</c>
+        <d>Tuvalu</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je autor knjige "Rat svjetova"?</question>
+        <a>George Orwell</a>
+        <b>H.G. Wells</b>
+        <c>Jules Verne</c>
+        <d>Aldous Huxley</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najveća država u Europi po površini?</question>
+        <a>Rusija</a>
+        <b>Francuska</b>
+        <c>Njemačka</c>
+        <d>Španjolska</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što označava kratica "LASER"?</question>
+        <a>Light Amplification by Stimulated Emission of Radiation</a>
+        <b>Long-range Acoustic Sensing and Electronic Recognition</b>
+        <c>Luminous Atomic Spectrum Emitting Radiance</c>
+        <d>Linear Absorption of Solar Energy Radiation</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najstarija svjetska religija?</question>
+        <a>Hinduizam</a>
+        <b>Budizam</b>
+        <c>Judaizam</c>
+        <d>Šintoizam</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najveća živuća kornjača na svijetu?</question>
+        <a>Kornjača Aldabra</a>
+        <b>Kornjača Galápagos</b>
+        <c>Kornjača Olmec</c>
+        <d>Kornjača Leatherback</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što je nukleinska kiselina u stanicama?</question>
+        <a>DNK i RNK</a>
+        <b>Proteini</b>
+        <c>Enzimi</c>
+        <d>Ugljikohidrati</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što znači izraz "Cogito, ergo sum"?</question>
+        <a>Mislim, dakle jesam</a>
+        <b>Ljubim, dakle postojim</b>
+        <c>Radim, dakle jesam</c>
+        <d>Vidim, dakle vjerujem</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najviša planina poslije Himalaje?</question>
+        <a>Andski masiv</a>
+        <b>Alpe</b>
+        <c>Rocky Mountains</c>
+        <d>Atlas</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je bio prvi objekt izgrađen u svemiru?</question>
+        <a>Sputnik 1</a>
+        <b>ISS (Međunarodna svemirska postaja)</b>
+        <c>Teleskop Hubble</c>
+        <d>Apollon 11</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što je poznato kao "čestica Boga"?</question>
+        <a>Quark</a>
+        <b>Higgs bozon</b>
+        <c>Neutrino</c>
+        <d>Gluon</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je bio prvi objekt izgrađen u svemiru?</question>
+        <a>Teleskop Hubble</a>
+        <b>ISS (Međunarodna svemirska postaja)</b>
+        <c>Apollon 11</c>
+        <d>Sputnik 1</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najveća planina na Marsu?</question>
+        <a>Olympus Mons</a>
+        <b>Valles Marineris</b>
+        <c>Tharsis Montes</c>
+        <d>Elysium Mons</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što je bio prvi komercijalni operacijski sustav za osobna računala?</question>
+        <a>Windows 95</a>
+        <b>MS-DOS</b>
+        <c>Unix</c>
+        <d>Linux</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje godine je održano prvo moderno Olimpijsko natjecanje?</question>
+        <a>1876.</a>
+        <b>1896.</b>
+        <c>1904.</c>
+        <d>1920.</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je bio prvi komercijalno uspješan videoigrački sustav?</question>
+        <a>Atari 2600</a>
+        <b>Nintendo Entertainment System (NES)</b>
+        <c>Sega Genesis</c>
+        <d>PlayStation</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje jezero je najdublje na svijetu?</question>
+        <a>Crveno jezero</a>
+        <b>Bajkalsko jezero</b>
+        <c>Uralsko jezero</c>
+        <d>Tanganyika jezero</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje je godine izgrađen Kip slobode u New Yorku?</question>
+        <a>1886.</a>
+        <b>1901.</b>
+        <c>1920.</c>
+        <d>1945.</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najveća rijeka u Australiji?</question>
+        <a>Murray</a>
+        <b>Darling</b>
+        <c>Nil</c>
+        <d>Amazona</d>
+        <answer>2</answer>
+    </questionBlock>
+
 </normalQuestions>

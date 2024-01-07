@@ -1104,4 +1104,328 @@
         <answer>2</answer>
     </questionBlock>
 
+    <questionBlock>
+        <question>Koja zemlja je domaćin Europskog prvenstva 2024. godine?</question>
+        <a>Njemačka</a>
+        <b>Francuska</b>
+        <c>Španjolska</c>
+        <d>Italija</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja država ima najviše stanovnika u Europi?</question>
+        <a>Njemačka</a>
+        <b>Rusija</b>
+        <c>Francuska</c>
+        <d>Velika Britanija</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je napisao "Galeb Jonathan Livingston"?</question>
+        <a>Richard Bach</a>
+        <b>Paulo Coelho</b>
+        <c>Herman Hesse</c>
+        <d>John Steinbeck</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja planeta je poznata kao "Crveni planet"?</question>
+        <a>Mars</a>
+        <b>Venera</b>
+        <c>Jupiter</c>
+        <d>Saturn</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja rijeka teče kroz Pariz?</question>
+        <a>Sena</a>
+        <b>Temiš</b>
+        <c>Tamiza</c>
+        <d>Dunav</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje godine je počeo Prvi svjetski rat?</question>
+        <a>1914.</a>
+        <b>1916.</b>
+        <c>1918.</c>
+        <d>1920.</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najveća planina na svijetu?</question>
+        <a>Mount Everest</a>
+        <b>K2</b>
+        <c>Anapurna</c>
+        <d>Kangchenjunga</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je glavna valuta u Japanu?</question>
+        <a>Yen</a>
+        <b>Won</b>
+        <c>Ringgit</c>
+        <d>Peso</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najveća kontinenta na svijetu?</question>
+        <a>Azija</a>
+        <b>Afrika</b>
+        <c>Europa</c>
+        <d>Sjeverna Amerika</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što je glavni sastojak tradicionalnog talijanskog jela pizza?</question>
+        <a>Rajčica</a>
+        <b>Tijesto</b>
+        <c>Šunka</c>
+        <d>Sir</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U kojoj zemlji se nalazi Eiffelov toranj?</question>
+        <a>Italija</a>
+        <b>Francuska</b>
+        <c>Španjolska</c>
+        <d>Njemačka</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najduža rijeka u svijetu?</question>
+        <a>Nil</a>
+        <b>Amazona</b>
+        <c>Jangce</c>
+        <d>Misisipi</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja životinja simbolizira brzinu?</question>
+        <a>Kornjača</a>
+        <b>Jež</b>
+        <c>Gepard</c>
+        <d>Slon</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najveća planina u SAD-u?</question>
+        <a>Rocky Mountains</a>
+        <b>Denali</b>
+        <c>Appalachian Mountains</c>
+        <d>Cascade Range</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koliko je planeta u našem Sunčevom sustavu?</question>
+        <a>8</a>
+        <b>9</b>
+        <c>10</c>
+        <d>7</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je glavna boja Coca-Cole?</question>
+        <a>Crvena</a>
+        <b>Plava</b>
+        <c>Zelena</c>
+        <d>Žuta</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je glavni grad Australije?</question>
+        <a>Sydney</a>
+        <b>Melbourne</b>
+        <c>Canberra</c>
+        <d>Brisbane</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što označava kratica UNESCO?</question>
+        <a>United Nations Educational, Scientific, and Organic</a>
+        <b>United Nations Educational, Scientific, and Cultural Organization</b>
+        <c>Universal Network for Culture, Education, Science, and Organizations</c>
+        <d>United Nations Economic, Social, and Organizational Council</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najveća životinja na Zemlji?</question>
+        <a>Slon</a>
+        <b>Plavi kit</b>
+        <c>Girafa</c>
+        <d>Morski pas</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U kojem oceanu se nalazi Bermudski trokut?</question>
+        <a>Atlantski ocean</a>
+        <b>Tihookeanski ocean</b>
+        <c>Indijski ocean</c>
+        <d>Arktički ocean</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koliko je stranica imao originalni Gutenbergov tisak Biblije?</question>
+        <a>500</a>
+        <b>1000</b>
+        <c>1500</c>
+        <d>2000</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najveća država u svijetu prema površini?</question>
+        <a>Rusija</a>
+        <b>Kanada</b>
+        <c>Kina</c>
+        <d>Indija</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što je najčešći plin u Zemljinoj atmosferi?</question>
+        <a>Kisik</a>
+        <b>Ugljični dioksid</b>
+        <c>Azot</c>
+        <d>Vodena para</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najveća pustinja na svijetu?</question>
+        <a>Sahara</a>
+        <b>Gobi</b>
+        <c>Australijska pustinja</c>
+        <d>Antarktička pustinja</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje godine je otkrivena radioaktivnost?</question>
+        <a>1896.</a>
+        <b>1905.</b>
+        <c>1911.</c>
+        <d>1922.</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najviša planina u Europi?</question>
+        <a>Mont Blanc</a>
+        <b>Elbrus</b>
+        <c>Alpe</c>
+        <d>Pyreneji</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje godine je završen Drugi svjetski rat?</question>
+        <a>1943.</a>
+        <b>1945.</b>
+        <c>1947.</c>
+        <d>1950.</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što označava kratica NASA?</question>
+        <a>North American Space Association</a>
+        <b>National Aeronautics and Space Administration</b>
+        <c>New Aerospace and Space Agency</c>
+        <d>North Atlantic Space Alliance</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najmanja kost u ljudskom tijelu?</question>
+        <a>Škripavac</a>
+        <b>Palac</b>
+        <c>Vješalača</c>
+        <d>Kuk</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najviša zgrada na svijetu?</question>
+        <a>Burj Khalifa</a>
+        <b>Shanghai Tower</b>
+        <c>One World Trade Center</c>
+        <d>Petronas Towers</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najveća životinja koja je ikada živjela na Zemlji?</question>
+        <a>Tiranosauros rex</a>
+        <b>Plavi kit</b>
+        <c>Stegosaurus</c>
+        <d>Brachiosaurus</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najveća država u Južnoj Americi?</question>
+        <a>Brazil</a>
+        <b>Argentina</b>
+        <c>Čile</c>
+        <d>Kolumbija</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što je najčešći element u Zemljinoj kori?</question>
+        <a>Silicij</a>
+        <b>Kisik</b>
+        <c>Aluminij</c>
+        <d>Željezo</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>U kojem mjesecu se obilježava Dan neovisnosti Sjedinjenih Američkih Država?</question>
+        <a>Prosinac</a>
+        <b>Srpanj</b>
+        <c>Studeni</c>
+        <d>Siječanj</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najveća rijeka u Aziji?</question>
+        <a>Jangce</a>
+        <b>Ganges</b>
+        <c>Amur</c>
+        <d>Mekong</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je najveći kontinent prema broju stanovnika?</question>
+        <a>Azija</a>
+        <b>Afrika</b>
+        <c>Europa</c>
+        <d>Sjeverna Amerika</d>
+        <answer>1</answer>
+    </questionBlock>
+
 </easyQuestions>

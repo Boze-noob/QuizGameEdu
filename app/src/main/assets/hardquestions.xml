@@ -947,4 +947,138 @@
         <answer>2</answer>
     </questionBlock>
 
+    <questionBlock>
+        <question>Koja je najmanja subatomska čestica?</question>
+        <a>Kvark</a>
+        <b>Lepton</b>
+        <c>Higgs bozon</c>
+        <d>Neutrino</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kolika je najveća koncentracija kisika u atmosferi Zemlje?</question>
+        <a>20%</a>
+        <b>21%</b>
+        <c>22%</c>
+        <d>23%</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je prvi opisao heliocentrični model Sunčevog sustava?</question>
+        <a>Copernicus</a>
+        <b>Galileo Galilei</b>
+        <c>Kepler</c>
+        <d>Ptolemej</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Skoro koliko zvijezda ima u našoj Mliječnoj stazi?</question>
+        <a>100 milijuna</a>
+        <b>1 milijarda</b>
+        <c>100 milijardi</c>
+        <d>1 bilijun</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što predstavlja Schrödingerova mačka u kvantnoj fizici?</question>
+        <a>Stanje superpozicije</a>
+        <b>Entanglement</b>
+        <c>Kvantno tuneliranje</c>
+        <d>Teoriju kaosa</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kako se zove najbrži avion na svijetu?</question>
+        <a>Concorde</a>
+        <b>Blackbird SR-71</b>
+        <c>Space Shuttle</c>
+        <d>Tu-160</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što znači kratica DNA?</question>
+        <a>Deoxyribonucleic Acid</a>
+        <b>Double Nucleic Acid</b>
+        <c>Dynamic Nucleotide Assembly</c>
+        <d>Dihydroxy Nitrogen Atom</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Kako se zove najveći koraljni greben na svijetu?</question>
+        <a>Great Barrier Reef</a>
+        <b>Andaman Islands</b>
+        <c>Mesoamerican Reef</c>
+        <d>Red Sea Coral Reef</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koliko elemenata ima u periodnom sustavu elemenata?</question>
+        <a>92</a>
+        <b>104</b>
+        <c>118</c>
+        <d>120</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje godine je osnovan CERN?</question>
+        <a>1948.</a>
+        <b>1954.</b>
+        <c>1961.</c>
+        <d>1971.</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što predstavlja Heisenbergov princip neodređenosti u kvantnoj mehanici?</question>
+        <a>Odnos položaja i brzine čestice</a>
+        <b>Odnos energije i vremena</b>
+        <c>Odnos spinova čestica</c>
+        <d>Odnos magnetskog momenta i magneta</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje godine je otkriven prvi antibiotik - penicilin?</question>
+        <a>1923.</a>
+        <b>1928.</b>
+        <c>1935.</c>
+        <d>1941.</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najveća životinja koja može letjeti?</question>
+        <a>Orao</a>
+        <b>Morski orao</b>
+        <c>Šišmiš srednje Azije</c>
+        <d>Albatros</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Što označava skraćenica "HTTP" u kontekstu internetskog protokola?</question>
+        <a>HyperText Transfer Protocol</a>
+        <b>High-Level Transfer Process</b>
+        <c>Human-Computer Transfer Protocol</c>
+        <d>HyperLink Text Transmission</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najmasnija riba na svijetu?</question>
+        <a>Sabljarka</a>
+        <b>Plavi kit</b>
+        <c>Grbavi kit</c>
+        <d>Morski pas</d>
+        <answer>1</answer>
+    </questionBlock>
 </hardQuestions>
