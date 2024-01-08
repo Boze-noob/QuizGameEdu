@@ -1006,7 +1006,7 @@
     </questionBlock>
 
     <questionBlock>
-        <question>Koje godine je potpisan Deklaracija o neovisnosti Sjedinjenih Američkih Država?</question>
+        <question>Koje godine je potpisana Deklaracija o neovisnosti Sjedinjenih Američkih Država?</question>
         <a>1773.</a>
         <b>1776.</b>
         <c>1782.</c>
@@ -1057,15 +1057,6 @@
         <c>Jules Verne</c>
         <d>Aldous Huxley</d>
         <answer>2</answer>
-    </questionBlock>
-
-    <questionBlock>
-        <question>Koja je najveća država u Europi po površini?</question>
-        <a>Rusija</a>
-        <b>Francuska</b>
-        <c>Njemačka</c>
-        <d>Španjolska</d>
-        <answer>1</answer>
     </questionBlock>
 
     <questionBlock>
@@ -1159,7 +1150,7 @@
     </questionBlock>
 
     <questionBlock>
-        <question>Što je bio prvi komercijalni operacijski sustav za osobna računala?</question>
+        <question>Koji je bio prvi komercijalni operacijski sustav za osobna računala?</question>
         <a>Windows 95</a>
         <b>MS-DOS</b>
         <c>Unix</c>
@@ -1195,7 +1186,7 @@
     </questionBlock>
 
     <questionBlock>
-        <question>Koje je godine izgrađen Kip slobode u New Yorku?</question>
+        <question>Koje je godine izgrađen Kip slobode u New York-u?</question>
         <a>1886.</a>
         <b>1901.</b>
         <c>1920.</c>

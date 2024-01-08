@@ -1132,7 +1132,7 @@
     </questionBlock>
 
     <questionBlock>
-        <question>Koja planeta je poznata kao "Crveni planet"?</question>
+        <question>Koji planet je poznata kao "Crveni planet"?</question>
         <a>Mars</a>
         <b>Venera</b>
         <c>Jupiter</c>
@@ -1177,7 +1177,7 @@
     </questionBlock>
 
     <questionBlock>
-        <question>Koja je najveća kontinenta na svijetu?</question>
+        <question>Koji je najveći kontinent na svijetu?</question>
         <a>Azija</a>
         <b>Afrika</b>
         <c>Europa</c>
@@ -1277,10 +1277,10 @@
 
     <questionBlock>
         <question>U kojem oceanu se nalazi Bermudski trokut?</question>
-        <a>Atlantski ocean</a>
-        <b>Tihookeanski ocean</b>
-        <c>Indijski ocean</c>
-        <d>Arktički ocean</d>
+        <a>Atlantskom</a>
+        <b>Tihom</b>
+        <c>Indijskom</c>
+        <d>Arktičkom</d>
         <answer>1</answer>
     </questionBlock>
 
@@ -1303,7 +1303,7 @@
     </questionBlock>
 
     <questionBlock>
-        <question>Što je najčešći plin u Zemljinoj atmosferi?</question>
+        <question>Koji je najčešći plin u Zemljinoj atmosferi?</question>
         <a>Kisik</a>
         <b>Ugljični dioksid</b>
         <c>Azot</c>
@@ -1393,7 +1393,7 @@
     </questionBlock>
 
     <questionBlock>
-        <question>Što je najčešći element u Zemljinoj kori?</question>
+        <question>Koji je najčešći element u Zemljinoj kori?</question>
         <a>Silicij</a>
         <b>Kisik</b>
         <c>Aluminij</c>
