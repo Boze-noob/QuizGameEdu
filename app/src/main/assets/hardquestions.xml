@@ -1081,4 +1081,67 @@
         <d>Morski pas</d>
         <answer>1</answer>
     </questionBlock>
+
+<questionBlock>
+    <question>Koje godine je počeo Tridesetogodišnji rat?</question>
+    <a>1618.</a>
+    <b>1648.</b>
+    <c>1565.</c>
+    <d>1692.</d>
+    <answer>1</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Kako se zove najviša džamija na svijetu, smještena u Meki?</question>
+    <a>Džamija Svete Petke</a>
+    <b>Džamija kralja Abdulaziza</b>
+    <c>Džamija Kaira</c>
+    <d>Džamija Al-Haram</d>
+    <answer>2</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Što znači kratica "CERN"?</question>
+    <a>Centralna europska istraživačka organizacija</a>
+    <b>Europski centar za nuklearna istraživanja</b>
+    <c>Conseil Européen pour la Recherche Nucléaire</c>
+    <d>Centar za eksperimentalna i istraživanja nuklearne fizike</d>
+    <answer>3</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Koje godine je otkrivena mikroskopska bakterija Helicobacter pylori?</question>
+    <a>1975.</a>
+    <b>1982.</b>
+    <c>1968.</c>
+    <d>1991.</d>
+    <answer>2</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Koja je najveća nuklearna elektrana na svijetu?</question>
+    <a>Chernobyl</a>
+    <b>Fukushima</b>
+    <c>Nine Mile Point</c>
+    <d>Kashiwazaki-Kariwa</d>
+    <answer>4</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Koja je najmanja pustinjska država na svijetu?</question>
+    <a>Katar</a>
+    <b>Kuwait</b>
+    <c>Ujedinjeni Arapski Emirati</c>
+    <d>Bahrein</d>
+    <answer>4</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Što je tzv. "teorija svega" u fizici?</question>
+    <a>Teorija gravitacije</a>
+    <b>Teorija relativnosti</b>
+    <c>Teorija elektromagnetizma</c>
+    <d>Pokušaj integracije svih fundamentalnih teorija</d>
+    <answer>4</answer>
+</questionBlock>
 </hardQuestions>

@@ -1203,4 +1203,113 @@
         <answer>2</answer>
     </questionBlock>
 
+    <questionBlock>
+    <question>Koje godine je osnovan prvi nogometni klub u Hrvatskoj?</question>
+    <a>1872.</a>
+    <b>1902.</b>
+    <c>1920.</c>
+    <d>1945.</d>
+    <answer>2</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Tko je napisao "Gospodara prstenova"?</question>
+    <a>J.K. Rowling</a>
+    <b>George R.R. Martin</b>
+    <c>J.R.R. Tolkien</c>
+    <d>C.S. Lewis</d>
+    <answer>3</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Koje godine je čovjek prvi put sletio na Mjesec?</question>
+    <a>1969.</a>
+    <b>1975.</b>
+    <c>1982.</c>
+    <d>1990.</d>
+    <answer>1</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Što znači akronim "RNA" u biologiji?</question>
+    <a>Ribozomski nukleinska kiselina</a>
+    <b>Ribonukleinska kiselina</b>
+    <c>Replikativna nukleinska kiselina</c>
+    <d>Regenerativna nukleinska kiselina</d>
+    <answer>2</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Koje godine je pao Berlinski zid?</question>
+    <a>1989.</a>
+    <b>1991.</b>
+    <c>1985.</c>
+    <d>1995.</d>
+    <answer>1</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Koje jezero se smatra najstarijim na svijetu?</question>
+    <a>Baikal</a>
+    <b>Tanganjika</b>
+    <c>Van</c>
+    <d>Titicaca</d>
+    <answer>1</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Koja država se prostire na dva kontinenta?</question>
+    <a>Rusija</a>
+    <b>Turska</b>
+    <c>Egipat</c>
+    <d>Iran</d>
+    <answer>1</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Koja je glavna karakteristika kemijskog elementa plutonija?</question>
+    <a>Radioaktivnost</a>
+    <b>Metalni sjaj</b>
+    <c>Plinovito stanje</c>
+    <d>Topljivost u vodi</d>
+    <answer>1</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Koje jezero je najdublje na svijetu?</question>
+    <a>Titicaca</a>
+    <b>Baikal</b>
+    <c>Tanganjika</c>
+    <d>Crveno more</d>
+    <answer>2</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Što označava kratica "CPU" u računalnom svijetu?</question>
+    <a>Central Processing Unit</a>
+    <b>Computer Personal Unit</b>
+    <c>Central Peripheral Unit</c>
+    <d>Central Power Unit</d>
+    <answer>1</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Koja je najviša planina izvan azijskog kontinenta?</question>
+    <a>Mount McKinley</a>
+    <b>Mount Kilimanjaro</b>
+    <c>Mount Elbrus</c>
+    <d>Mount Aconcagua</d>
+    <answer>4</answer>
+</questionBlock
+
+<questionBlock>
+    <question>Što je mitotska podjela?</question>
+    <a>Podjela koja stvara spolne stanice</a>
+    <b>Podjela koja stvara identične stanice</b>
+    <c>Podjela u tijelu živog organizma</c>
+    <d>Podjela koja stvara gamete</d>
+    <answer>2</answer>
+</questionBlock>
+
+
 </normalQuestions>

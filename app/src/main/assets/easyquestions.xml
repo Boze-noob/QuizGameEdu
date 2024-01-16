@@ -1428,4 +1428,113 @@
         <answer>1</answer>
     </questionBlock>
 
+    <questionBlock>
+    <question>Koji je najveći planet u Sunčevom sustavu?</question>
+    <a>Mars</a>
+    <b>Jupiter</b>
+    <c>Zemlja</c>
+    <d>Venera</d>
+    <answer>2</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Koje more se nalazi između Italije i Balkanskog poluotoka?</question>
+    <a>Sredozemno more</a>
+    <b>Jadransko more</b>
+    <c>Egejsko more</c>
+    <d>Crno more</d>
+    <answer>2</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Tko je autor "Gorskog vijenca"?</question>
+    <a>Petar Preradović</a>
+    <b>Marko Marulić</b>
+    <c>Pavao Ritter Vitezović</c>
+    <d>Petar II. Petrović Njegoš</d>
+    <answer>4</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Koja je glavna valuta Europske unije?</question>
+    <a>Dolar</a>
+    <b>Euro</b>
+    <c>Funti</c>
+    <d>Yen</d>
+    <answer>2</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Koji grad je glavni grad Austrije?</question>
+    <a>Beč</a>
+    <b>Salzburg</b>
+    <c>Linz</c>
+    <d>Innsbruck</d>
+    <answer>1</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Koje jezero se nalazi na granici Hrvatske, Slovenije i Italije?</question>
+    <a>Jezero Bled</a>
+    <b>Jezero Como</b>
+    <c>Jezero Garda</c>
+    <d>Jezero Plitvice</d>
+    <answer>4</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Što je simbol kemijskog elementa kisika?</question>
+    <a>O</a>
+    <b>O2</b>
+    <c>CO2</c>
+    <d>N2</d>
+    <answer>2</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Koja je najviša planina na svijetu?</question>
+    <a>Mont Blanc</a>
+    <b>Mount Everest</b>
+    <c>K2</c>
+    <d>Kangchenjunga</d>
+    <answer>2</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Koja životinja je simbol Australije?</question>
+    <a>Klokan</a>
+    <b>Koala</b>
+    <c>Emu</c>
+    <d>Krokodil</d>
+    <answer>1</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Koji je najveći otok na svijetu?</question>
+    <a>Madagaskar</a>
+    <b>Novi Zeland</b>
+    <c>Grenland</c>
+    <d>Australija</d>
+    <answer>3</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Kako se zove najveći greben na svijetu, koji se nalazi u Australiji?</question>
+    <a>Veliki koraljni greben</a>
+    <b>Ningaloo greben</b>
+    <c>Belizeanski greben</c>
+    <d>Kajmanski greben</d>
+    <answer>1</answer>
+</questionBlock>
+
+<questionBlock>
+    <question>Što je Eiffelov toranj?</question>
+    <a>TV toranj</a>
+    <b>Most</b>
+    <c>Dimnjak elektrane</c>
+    <d>Čelična konstrukcija</d>
+    <answer>4</answer>
+</questionBlock>
+
+
 </easyQuestions>
