@@ -1200,17 +1200,8 @@
         <b>Darling</b>
         <c>Nil</c>
         <d>Amazona</d>
-        <answer>2</answer>
+        <answer>1</answer>
     </questionBlock>
-
-    <questionBlock>
-    <question>Koje godine je osnovan prvi nogometni klub u Hrvatskoj?</question>
-    <a>1872.</a>
-    <b>1902.</b>
-    <c>1920.</c>
-    <d>1945.</d>
-    <answer>2</answer>
-</questionBlock>
 
 <questionBlock>
     <question>Tko je napisao "Gospodara prstenova"?</question>
@@ -1300,16 +1291,205 @@
     <c>Mount Elbrus</c>
     <d>Mount Aconcagua</d>
     <answer>4</answer>
-</questionBlock
+</questionBlock>
 
 <questionBlock>
-    <question>Što je mitotska podjela?</question>
-    <a>Podjela koja stvara spolne stanice</a>
-    <b>Podjela koja stvara identične stanice</b>
-    <c>Podjela u tijelu živog organizma</c>
-    <d>Podjela koja stvara gamete</d>
+    <question>Što stvara mitotska podjela?</question>
+    <a>Spolne stanice</a>
+    <b>Identične stanice</b>
+    <c>Natrijum</c>
+    <d>Gamete</d>
     <answer>2</answer>
 </questionBlock>
+
+    <questionBlock>
+        <question>Koja je reprezentacija osvojila Svjetsko prvenstvo u nogometu 2018. godine?</question>
+        <a>Francuska</a>
+        <b>Hrvatska</b>
+        <c>Njemačka</c>
+        <d>Argentina</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je glumac igrao ulogu Harryja Pottera?</question>
+        <a>Daniel Radcliffe</a>
+        <b>Rupert Grint</b>
+        <c>Emma Watson</c>
+        <d>Tom Felton</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji film je osvojio Oscara za najbolji film 2020. godine?</question>
+        <a>Parazit</a>
+        <b>1917</b>
+        <c>Joker</c>
+        <d>Green Book</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je film režirao Christopher Nolan, a govori o putovanju kroz vrijeme?</question>
+        <a>Inception</a>
+        <b>Tenet</b>
+        <c>Interstellar</c>
+        <d>Insomnia</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je glumica igrala ulogu Katniss Everdeen u seriji filmova "Igre gladi"?</question>
+        <a>Emma Stone</a>
+        <b>Jennifer Lawrence</b>
+        <c>Scarlett Johansson</c>
+        <d>Margot Robbie</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je redatelj stvorio filmski serijal "Pirati s Kariba"?</question>
+        <a>James Cameron</a>
+        <b>Gore Verbinski</b>
+        <c>Steven Spielberg</c>
+        <d>Tim Burton</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je film dobio najviše Oscara u povijesti?</question>
+        <a>Ben-Hur</a>
+        <b>Titanic</b>
+        <c>Lord of the Rings: The Return of the King</c>
+        <d>La La Land</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja reprezentacija je osvojila prvo Svjetsko prvenstvo u nogometu?</question>
+        <a>Urugvaj</a>
+        <b>Italija</b>
+        <c>Engleska</c>
+        <d>Brazil</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Ko je bio najstariji igrač koji je ikada igrao na Svjetskom prvenstvu?</question>
+        <a>Faryd Mondragon</a>
+        <b>Essam El-Hadary</b>
+        <c>Paolo Maldini</c>
+        <d>Roger Milla</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji film je osvojio Oscara za najbolji film 2019. godine?</question>
+        <a>Bohemian Rhapsody</a>
+        <b>Green Book</b>
+        <c>The Shape of Water</c>
+        <d>Black Panther</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je glumica dobila Oscar za najbolju glavnu žensku ulogu u filmu "La La Land"?</question>
+        <a>Emma Stone</a>
+        <b>Emma Watson</b>
+        <c>Jennifer Lawrence</c>
+        <d>Meryl Streep</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je bio posljednji car Ruske carske obitelji Romanov?</question>
+        <a>Nikola II.</a>
+        <b>Aleksandar III.</b>
+        <c>Ivan IV.</c>
+        <d>Pavao I.</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja osoba je bila glavni teoretičar revolucionarne marksističke ideologije?</question>
+        <a>Karl Marx</a>
+        <b>Vladimir Lenin</b>
+        <c>Leon Trotsky</c>
+        <d>Josip Broz Tito</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je bio prvi rimski car?</question>
+        <a>Augustus</a>
+        <b>Julije Cezar</b>
+        <c>Tiberije</c>
+        <d>Nero</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je bio car Francuske tijekom Francuske revolucije?</question>
+        <a>Napoleon Bonaparte</a>
+        <b>Robespierre</b>
+        <c>Luj XVI</c>
+        <d>Joakim Murat</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je grad bio glavno sjedište Svetog Rimskog Carstva?</question>
+        <a>Beč</a>
+        <b>Rim</b>
+        <c>Bonn</c>
+        <d>Aachen</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je događaj označio početak Prvog svjetskog rata?</question>
+        <a>Ubojstvo Franje Ferdinanda</a>
+        <b>Potpisivanje Versajskog sporazuma</b>
+        <c>Napad na Pearl Harbor</c>
+        <d>Pad Berlinskog zida</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je vođa vodio Mongolsku invaziju na Rusiju u 13. stoljeću?</question>
+        <a>Džingis-kan</a>
+        <b>Batu Khan</b>
+        <c>Kublai Khan</c>
+        <d>Timur Lenk</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji događaj je izravno prethodio Američkom građanskom ratu?</question>
+        <a>Bitka kod Gettysburga</a>
+        <b>Proklamacija o ukidanju ropstva</b>
+        <c>Napad na Fort Sumter</c>
+        <d>Potpisivanje Deklaracije o neovisnosti</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je grad bio glavno središte antičke Grčke i dom filozofa poput Platona i Aristotela?</question>
+        <a>Atena</a>
+        <b>Sparta</b>
+        <c>Korint</c>
+        <d>Tesaloniki</d>
+        <answer>1</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje godine je izašao prvi film iz Marvelovog filmskog univerzuma (MCU)?</question>
+        <a>2006.</a>
+        <b>2008.</b>
+        <c>2010.</c>
+        <d>2012.</d>
+        <answer>2</answer>
+    </questionBlock>
 
 
 </normalQuestions>

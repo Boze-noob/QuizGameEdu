@@ -1459,13 +1459,13 @@
     <question>Koja je glavna valuta Europske unije?</question>
     <a>Dolar</a>
     <b>Euro</b>
-    <c>Funti</c>
+    <c>Funta</c>
     <d>Yen</d>
     <answer>2</answer>
 </questionBlock>
 
 <questionBlock>
-    <question>Koji grad je glavni grad Austrije?</question>
+    <question>Koji je glavni grad Austrije?</question>
     <a>Beč</a>
     <b>Salzburg</b>
     <c>Linz</c>
@@ -1474,21 +1474,12 @@
 </questionBlock>
 
 <questionBlock>
-    <question>Koje jezero se nalazi na granici Hrvatske, Slovenije i Italije?</question>
-    <a>Jezero Bled</a>
-    <b>Jezero Como</b>
-    <c>Jezero Garda</c>
-    <d>Jezero Plitvice</d>
-    <answer>4</answer>
-</questionBlock>
-
-<questionBlock>
-    <question>Što je simbol kemijskog elementa kisika?</question>
+    <question>Koji je simbol kemijskog elementa kisika?</question>
     <a>O</a>
     <b>O2</b>
     <c>CO2</c>
     <d>N2</d>
-    <answer>2</answer>
+    <answer>1</answer>
 </questionBlock>
 
 <questionBlock>
@@ -1527,14 +1518,30 @@
     <answer>1</answer>
 </questionBlock>
 
-<questionBlock>
-    <question>Što je Eiffelov toranj?</question>
-    <a>TV toranj</a>
-    <b>Most</b>
-    <c>Dimnjak elektrane</c>
-    <d>Čelična konstrukcija</d>
-    <answer>4</answer>
-</questionBlock>
+    <questionBlock>
+        <question>Koji je najpoznatiji klub iz Madrida?</question>
+        <a>Barcelona</a>
+        <b>Real Madrid</b>
+        <c>Atletico Madrid</c>
+        <d>Valencia</d>
+        <answer>2</answer>
+    </questionBlock>
 
+    <questionBlock>
+        <question>Od koliko igrača se sastoji nogometni tim?</question>
+        <a>10</a>
+        <b>11</b>
+        <c>12</c>
+        <d>9</d>
+        <answer>2</answer>
+    </questionBlock>
 
+    <questionBlock>
+        <question>Koliko traje jedno poluvrijeme u nogometnoj utakmici?</question>
+        <a>30 minuta</a>
+        <b>45 minuta</b>
+        <c>60 minuta</c>
+        <d>90 minuta</d>
+        <answer>2</answer>
+    </questionBlock>
 </easyQuestions>
