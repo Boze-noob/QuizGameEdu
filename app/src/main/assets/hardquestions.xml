@@ -1135,4 +1135,22 @@
     <d>Pokušaj integracije svih fundamentalnih teorija</d>
     <answer>4</answer>
 </questionBlock>
+
+    <questionBlock>
+        <question>Koji je glavni sastojak guacamole?</question>
+        <a>Rajčica</a>
+        <b>Avokado</b>
+        <c>Luk</c>
+        <d>Češnjak</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koje je godine potonuo Titanic?</question>
+        <a>1905.</a>
+        <b>1912.</b>
+        <c>1920.</c>
+        <d>1931.</d>
+        <answer>2</answer>
+    </questionBlock>
 </hardQuestions>

@@ -1544,4 +1544,76 @@
         <d>90 minuta</d>
         <answer>2</answer>
     </questionBlock>
+
+    <questionBlock>
+        <question>Koji je glavni grad Francuske?</question>
+        <a>Berlin</a>
+        <b>Madrid</b>
+        <c>Pariz</c>
+        <d>Lisabon</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji element ima kemijski simbol 'O'?</question>
+        <a>Zlato</a>
+        <b>Kisik</b>
+        <c>Osmij</c>
+        <d>Oganeson</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je najveći ocean na Zemlji?</question>
+        <a>Atlantski ocean</a>
+        <b>Indijski ocean</b>
+        <c>Arktički ocean</c>
+        <d>Tihi ocean</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je naslikao Mona Lisu?</question>
+        <a>Vincent van Gogh</a>
+        <b>Pablo Picasso</b>
+        <c>Leonardo da Vinci</c>
+        <d>Claude Monet</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je planet poznat kao Crveni planet?</question>
+        <a>Zemlja</a>
+        <b>Mars</b>
+        <c>Jupiter</c>
+        <d>Saturn</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najtvrđa prirodna tvar na Zemlji?</question>
+        <a>Zlato</a>
+        <b>Željezo</b>
+        <c>Dijamant</c>
+        <d>Kvarc</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je bio prvi čovjek koji je hodao po Mjesecu?</question>
+        <a>Buzz Aldrin</a>
+        <b>Yuri Gagarin</b>
+        <c>Neil Armstrong</c>
+        <d>Alan Shepard</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je kemijska formula za vodu?</question>
+        <a>CO2</a>
+        <b>H2O</b>
+        <c>O2</c>
+        <d>H2</d>
+        <answer>2</answer>
+    </questionBlock>
 </easyQuestions>

@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="app_name">Miliju naš</string>
+    <string name="app_name">MilijuNaš</string>
     <string name="start_game">POKRENI IGRU</string>
     <string name="highest_score">NAJBOLJI REZULTAT</string>
     <string name="quit">IZLAZ</string>
@@ -20,7 +20,7 @@
     <string name="Audience_answers">Pitaj raju</string>
     <string name="okay">Ok</string>
     <string name="game_over">Igra je ZAVRŠENA\nTvoja nagrada:</string>
-    <string name="currency">KM</string>
+    <string name="currency">€</string>
     <string name="withdraw_sure">Jeste li sigurni da se želite predati ?</string>
     <string name="no">Ne</string>
     <string name="yes">Da</string>
@@ -34,20 +34,20 @@
     <string name="other_programs">Ostale aplikacije</string>
     <string name="game_over_final">Čestitam!!! Postali ste MILIJUNAŠ!!</string>
     <string name="sound">Zvuk</string>
-    <string name="thanks">Fala ti!</string>
+    <string name="thanks">Hvala ti!</string>
     <string name="main">Glavni izbornik</string>
     <string name="zasluge">ZASLUGE</string>
     <string name="glazba">Glazba</string>
     <string name="linkovi">Linkovi</string>
 
     <string name="joker1">Ee ne znam ti da me ubiješ sad,et sretno!.</string>
-    <string name="joker2">Vidio sam na google, odgovor je  </string>
+    <string name="joker2">Pitao sam AI, odgovor je  </string>
     <string name="joker3">Nisam siguran, al mislim da je </string>
     <string name="joker4">Asu, da sam na tvom mistu reko bi </string>
-    <string name="joker5">Ee susjed, sretno ti. Reći ću </string>
+    <string name="joker5">Ej susjed, sretno ti. Reći ću </string>
     <string name="joker6">Samo me zoves kad ti triba nešto. Reko bi da je </string>
     <string name="joker7">Aaa nemogu se sitit sad nikako, mislin da je  </string>
-    <string name="joker8"> A di mene nađe Jozo, ovako na prvu reko bi da je </string>
+    <string name="joker8"> A di mene nađe Jozo, ovako na prvu rekao bih da je </string>
     <string name="joker8helper">, al nisam siguran</string>
     <string name="exit">Izlaz</string>
     <string name="kreiraj_pitanje">Kreiraj pitanja</string>

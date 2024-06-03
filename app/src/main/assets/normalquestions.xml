@@ -1491,5 +1491,85 @@
         <answer>2</answer>
     </questionBlock>
 
+    <questionBlock>
+        <question>Koji pisac je napisao djelo 'Hamlet'?</question>
+        <a>Charles Dickens</a>
+        <b>William Shakespeare</b>
+        <c>J.K. Rowling</c>
+        <d>George Orwell</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je najmanji planet u našem Sunčevom sustavu?</question>
+        <a>Zemlja</a>
+        <b>Mars</b>
+        <c>Venera</c>
+        <d>Merkur</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja valuta se koristi u Japanu?</question>
+        <a>Juan</a>
+        <b>Won</b>
+        <c>Jen</c>
+        <d>Dolar</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Tko je otkrio penicilin?</question>
+        <a>Marie Curie</a>
+        <b>Alexander Fleming</b>
+        <c>Louis Pasteur</c>
+        <d>Thomas Edison</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koja je najduža rijeka na svijetu?</question>
+        <a>Amazona</a>
+        <b>Yangtze</b>
+        <c>Mississippi</c>
+        <d>Nil</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je najveći sisavac na svijetu?</question>
+        <a>Slon</a>
+        <b>Plavi kit</b>
+        <c>Žirafa</c>
+        <d>Nosorog</d>
+        <answer>2</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je glavni grad Australije?</question>
+        <a>Sydney</a>
+        <b>Melbourne</b>
+        <c>Canberra</c>
+        <d>Perth</d>
+        <answer>3</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji organ pročišćava našu krv?</question>
+        <a>Srce</a>
+        <b>Jetra</b>
+        <c>Pluća</c>
+        <d>Bubrezi</d>
+        <answer>4</answer>
+    </questionBlock>
+
+    <questionBlock>
+        <question>Koji je nacionalni sport Japana?</question>
+        <a>Karate</a>
+        <b>Sumo hrvanje</b>
+        <c>Judo</c>
+        <d>Bejzbol</d>
+        <answer>2</answer>
+    </questionBlock>
 
 </normalQuestions>
